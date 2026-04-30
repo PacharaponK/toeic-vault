@@ -107,14 +107,14 @@ What information is stated in BOTH documents?
 ## บันทึกคำตอบของตัวเอง
 
 | ข้อ | คำตอบของฉัน | ถูก/ผิด |
-|-----|------------|--------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| --- | ----------- | ------- |
+| 1   | B           | ถูก     |
+| 2   | C           | ถูก     |
+| 3   | D           | ถูก     |
+| 4   | C           | ถูก     |
+| 5   | B           | ถูก     |
 
-**รวม: ___ / 5**
+**รวม: 5 / 5**
 
 ---
 
@@ -146,10 +146,10 @@ Doc 2, ย่อหน้า 2: *"employees must submit a completed Remote Work 
 
 ## คำศัพท์ยากประจำบทอ่าน
 
-| คำ | ความหมาย | ตัวอย่างในบทอ่าน |
-|----|----------|----------------|
-| renovation | การปรับปรุง/ซ่อมแซมอาคาร | *"will undergo a scheduled renovation"* |
-| relocate | ย้ายที่ตั้ง | *"all departments will temporarily relocate"* |
-| eligible | มีคุณสมบัติตามเกณฑ์ที่กำหนด | *"To be eligible, employees must submit…"* |
+| คำ         | ความหมาย                    | ตัวอย่างในบทอ่าน                              |
+| ---------- | --------------------------- | --------------------------------------------- |
+| renovation | การปรับปรุง/ซ่อมแซมอาคาร    | *"will undergo a scheduled renovation"*       |
+| relocate   | ย้ายที่ตั้ง                 | *"all departments will temporarily relocate"* |
+| eligible   | มีคุณสมบัติตามเกณฑ์ที่กำหนด | *"To be eligible, employees must submit…"*    |
 
 → [[Vocabulary/Business-Facilities]] *(สามารถสร้างไฟล์นี้เพื่อรวมคำศัพท์ด้านอาคาร/สถานที่)*

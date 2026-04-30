@@ -3,7 +3,9 @@
     "allow": [
       "Bash(mkdir -p \"D:/eng-vault/Grammar/Rules\" \"D:/eng-vault/Grammar/Exercises\" \"D:/eng-vault/Vocabulary\" \"D:/eng-vault/Reading\" \"D:/eng-vault/Listening\" \"D:/eng-vault/Daily\" \"D:/eng-vault/Logs\" \"D:/eng-vault/Templates\")",
       "Bash(touch \"D:/eng-vault/Grammar/Rules/.gitkeep\" \"D:/eng-vault/Grammar/Exercises/.gitkeep\" \"D:/eng-vault/Vocabulary/.gitkeep\" \"D:/eng-vault/Reading/.gitkeep\" \"D:/eng-vault/Listening/.gitkeep\" \"D:/eng-vault/Daily/.gitkeep\" \"D:/eng-vault/Logs/.gitkeep\" \"D:/eng-vault/Templates/.gitkeep\" \"D:/eng-vault/Dashboard.md\" \"D:/eng-vault/Grammar/Grammar-Index.md\")",
-      "WebSearch"
+      "WebSearch",
+      "WebFetch(domain:www.examenglish.com)",
+      "WebFetch(domain:www.esl-lounge.com)"
     ]
   }
 }

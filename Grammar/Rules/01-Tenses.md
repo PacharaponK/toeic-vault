@@ -61,16 +61,16 @@ last_reviewed:
 
 ## ตาราง Common Mistakes ใน TOEIC
 
-| ผิด | ถูก | เหตุผล |
-|-----|-----|--------|
-| The company was founded *since* 1990. | The company **has been** in business **since** 1990. | since ใช้กับ Perfect tense |
-| She **has left** yesterday. | She **left** yesterday. | yesterday = specific past time → Simple Past |
-| By next year, he **will finish** the project. | By next year, he **will have finished** the project. | by + future time → Future Perfect |
-| When I **will arrive**, call me. | When I **arrive**, call me. | time clause ใช้ Simple Present แทน Future |
-| I **work** here for 3 years. | I **have worked** here for 3 years. | for + duration → Present Perfect |
-| The meeting **is starting** at 9 a.m. daily. | The meeting **starts** at 9 a.m. daily. | ตารางประจำ → Simple Present |
-| She **didn't** finish **yet**. | She **hasn't** finished **yet**. | yet → Present Perfect |
-| They **are** known each other since school. | They **have known** each other since school. | state verb (know) → no progressive |
+| ผิด                                           | ถูก                                                  | เหตุผล                                       |
+| --------------------------------------------- | ---------------------------------------------------- | -------------------------------------------- |
+| The company was founded *since* 1990.         | The company **has been** in business **since** 1990. | since ใช้กับ Perfect tense                   |
+| She **has left** yesterday.                   | She **left** yesterday.                              | yesterday = specific past time → Simple Past |
+| By next year, he **will finish** the project. | By next year, he **will have finished** the project. | by + future time → Future Perfect            |
+| When I **will arrive**, call me.              | When I **arrive**, call me.                          | time clause ใช้ Simple Present แทน Future    |
+| I **work** here for 3 years.                  | I **have worked** here for 3 years.                  | for + duration → Present Perfect             |
+| The meeting **is starting** at 9 a.m. daily.  | The meeting **starts** at 9 a.m. daily.              | ตารางประจำ → Simple Present                  |
+| She **didn't** finish **yet**.                | She **hasn't** finished **yet**.                     | yet → Present Perfect                        |
+| They **are** known each other since school.   | They **have known** each other since school.         | state verb (know) → no progressive           |
 
 ---
 
