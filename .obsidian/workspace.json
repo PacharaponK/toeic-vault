@@ -8,17 +8,73 @@
         "type": "tabs",
         "children": [
           {
+            "id": "9e7c7d628ba5f29f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grammar/Rules/01-Tenses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-Tenses"
+            }
+          },
+          {
             "id": "d1637273ea1a51b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Grammar/Exercises/01-Tenses-Ex01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "01-Tenses-Ex01"
+            }
+          },
+          {
+            "id": "08acdc8bc149f713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/Business-Day1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Business-Day1"
+            }
+          },
+          {
+            "id": "b129dfa2e5c5c8cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Listening/2026-04-30-Part3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-30-Part3"
+            }
+          },
+          {
+            "id": "fbf392e3d732a7ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -190,14 +246,32 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "d1637273ea1a51b2",
+  "active": "9e7c7d628ba5f29f",
   "lastOpenFiles": [
+    "Grammar/Exercises/01-Tenses-Ex01.md",
+    "Grammar/Rules/01-Tenses.md",
+    "Vocabulary/Business-Day1.md",
+    "Listening/2026-04-30-Part3.md",
+    "README.md",
+    "Listening/2026-04-30-Part3.md.tmp.8808.1777527089080",
+    "Reading/2026-04-30-double-passage.md",
+    "Reading/2026-04-30-double-passage.md.tmp.8808.1777526961611",
+    "CLAUDE.md",
+    "Dashboard.md",
+    "Templates/daily-template.md",
+    "Vocabulary/Business-Week1.md.tmp.8808.1777526660607",
+    "CLAUDE.md.tmp.8808.1777526576926",
+    "Grammar/Rules/01-Tenses.md.tmp.8808.1777526351738",
+    "Grammar/Rules/01-Tenses.md.tmp.8808.1777526348145",
+    "Grammar/Rules/[nn]-[Topic].md",
+    "Daily/2026-04-30.md",
+    "Untitled.md",
     "Grammar/Grammar-Index.md",
     "Dashboard.md.tmp.23188.1777525006787",
-    "Grammar/Rules/01-Tenses.md",
     "Grammar/Grammar-Index.md.tmp.23188.1777524837455",
     "Grammar/Rules/17-Parallel-Structure.md",
     "Grammar/Rules/17-Parallel-Structure.md.tmp.23188.1777524714034",
@@ -205,27 +279,14 @@
     "Grammar/Rules/16-Reported-Speech.md.tmp.23188.1777524681127",
     "Grammar/Rules/15-Modals.md",
     "Grammar/Rules/14-Word-Forms.md",
-    "Grammar/Rules/14-Word-Forms.md.tmp.23188.1777524616266",
     "Grammar/Rules/13-Subject-Verb-Agreement.md",
-    "Grammar/Rules/13-Subject-Verb-Agreement.md.tmp.23188.1777524582198",
     "Grammar/Rules/02-Verb-Forms.md",
     "Grammar/Rules/03-Passive-Voice.md",
     "Grammar/Rules/04-Conditionals.md",
     "Grammar/Rules/06-Prepositions.md",
     "Grammar/Rules/12-Noun-Clauses.md",
     "Grammar/Rules/11-Relative-Clauses.md",
-    "Grammar/Rules/[nn]-[Topic.md",
     "Grammar/Rules/10-Comparatives.md",
-    "Grammar/Rules/09-Adjectives-Adverbs.md",
-    "Grammar/Rules/09-Adjectives-Adverbs.md.tmp.23188.1777524467223",
-    "Grammar/Rules/08-Pronouns.md",
-    "Grammar/Rules/07-Conjunctions.md",
-    "Grammar/Rules/05-Articles.md",
-    "Grammar/Rules/04-Conditionals.md.tmp.27556.1777522747209",
-    "Grammar/Rules/03-Passive-Voice.md.tmp.27556.1777522715289",
-    "Grammar/Rules/01-Tenses.md.tmp.27556.1777522656302",
-    "Templates/daily-template.md",
-    "CLAUDE.md",
-    "Dashboard.md"
+    "Grammar/Rules/09-Adjectives-Adverbs.md"
   ]
 }

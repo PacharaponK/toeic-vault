@@ -3,7 +3,7 @@ topic: Tenses
 chapter: 1
 type: rules
 toeic_parts: [5, 6]
-exercises: []
+exercises: ["[[Grammar/Exercises/01-Tenses-Ex01]]"]
 last_reviewed:
 ---
 
@@ -111,3 +111,5 @@ last_reviewed:
 ---
 
 ## แบบฝึกหัดที่เชื่อมกับบทนี้
+
+- [[Grammar/Exercises/01-Tenses-Ex01]]

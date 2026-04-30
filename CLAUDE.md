@@ -35,7 +35,7 @@ type: exercise
 exercise_num: [n]
 date: [YYYY-MM-DD]
 score:
-linked_rule: "[[Grammar/Rules/[nn]-[Topic]]]"
+linked_rule: "[[[nn]-[Topic]]]]"
 ---
 
 ### Every Daily note must have:
@@ -58,6 +58,11 @@ topics_covered: []
 files_created: []
 weak_points: []
 ---
+
+## Exercise Rules (IMPORTANT)
+- ห้ามแสดงเฉลย (✅ หรือ correct answer) ปะปนกับตัวเลือก (A)(B)(C)(D) เด็ดขาด
+- เฉลยและคำอธิบายต้องอยู่ใน section แยก ถัดจากส่วนโจทย์ทั้งหมด
+- ต้องมีตารางให้ผู้ใช้บันทึกคำตอบของตัวเองก่อนเปิดดูเฉลย
 
 ## Linking Rules (IMPORTANT)
 1. ทุก Exercise ต้องมี section "## 📖 อ้างอิงทฤษฎี" 
