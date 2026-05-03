@@ -3,7 +3,7 @@ topic: Verb Forms
 chapter: 2
 type: rules
 toeic_parts: [5, 6]
-exercises: []
+exercises: ["[[Grammar/Exercises/02-Verb-Forms-Ex01]]"]
 last_reviewed:
 ---
 
@@ -90,13 +90,13 @@ last_reviewed:
 
 ## Verbs + Both (เปลี่ยน Meaning)
 
-| Verb | + Gerund | + Infinitive |
-|------|----------|--------------|
-| **remember** | remember **doing** = จำได้ว่าเคยทำ (past) | remember **to do** = จำว่าต้องทำ (future task) |
-| **forget** | forget **doing** = ลืมไปแล้วว่าเคยทำ (past) | forget **to do** = ลืมที่จะทำ (task not done) |
-| **stop** | stop **doing** = หยุดทำสิ่งนั้น | stop **to do** = หยุด(อย่างอื่น)เพื่อทำสิ่งนี้ |
-| **try** | try **doing** = ลองทำดู (experiment) | try **to do** = พยายามทำ (effort) |
-| **regret** | regret **doing** = เสียใจที่ทำไปแล้ว | regret **to do** = เสียใจที่ต้องบอกว่า... |
+| Verb         | + Gerund                                    | + Infinitive                                   |
+| ------------ | ------------------------------------------- | ---------------------------------------------- |
+| **remember** | remember **doing** = จำได้ว่าเคยทำ (past)   | remember **to do** = จำว่าต้องทำ (future task) |
+| **forget**   | forget **doing** = ลืมไปแล้วว่าเคยทำ (past) | forget **to do** = ลืมที่จะทำ (task not done)  |
+| **stop**     | stop **doing** = หยุดทำสิ่งนั้น             | stop **to do** = หยุด(อย่างอื่น)เพื่อทำสิ่งนี้ |
+| **try**      | try **doing** = ลองทำดู (experiment)        | try **to do** = พยายามทำ (effort)              |
+| **regret**   | regret **doing** = เสียใจที่ทำไปแล้ว        | regret **to do** = เสียใจที่ต้องบอกว่า...      |
 
 **ตัวอย่าง:**
 > I **remember locking** the door. (จำได้ว่าล็อคแล้ว)
@@ -144,3 +144,4 @@ last_reviewed:
 ---
 
 ## แบบฝึกหัดที่เชื่อมกับบทนี้
+- [[Grammar/Exercises/02-Verb-Forms-Ex01]]

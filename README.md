@@ -77,7 +77,7 @@ claude
 เลือก Business English 5 คำสำหรับ TOEIC
 แสดงเฉพาะคำและประโยคตัวอย่าง TOEIC-style ให้ฉันก่อน โดยยังไม่บอกความหมาย
 รอให้ฉันเดาความหมายทั้ง 5 คำ จากนั้นเฉลยพร้อมคำอธิบาย
-แล้วค่อยสร้างไฟล์ Vocabulary/Business-Week[n].md ให้ครบ:
+แล้วค่อยสร้างไฟล์ Vocabulary/Business-Day[n].md ให้ครบ:
 แต่ละคำมี: ความหมายไทย, 2 ประโยคตัวอย่าง TOEIC-style,
 synonyms 2–3 คำ, TOEIC frequency (High/Med/Low)
 เพิ่ม tag #flashcard ทุกคำเพื่อใช้กับ Spaced Repetition plugin
