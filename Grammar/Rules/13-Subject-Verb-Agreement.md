@@ -4,7 +4,7 @@ chapter: 13
 type: rules
 toeic_parts: [5, 6]
 exercises: []
-last_reviewed:
+last_reviewed: 2026-05-05
 ---
 
 # 13 — Subject-Verb Agreement
@@ -101,6 +101,27 @@ last_reviewed:
 | A number of | plural | **A number of** employees **have** resigned. |
 | All of the | ตาม noun | **All of the** data **is** ready. / **All of the** files **are** ready. |
 | Percentage/Fraction + of | ตาม noun | 30% **of** the budget **is** used. / 30% **of** the employees **are** satisfied. |
+
+---
+
+## กรณีพิเศษเพิ่มเติม
+
+### ชื่อประเทศ / บริษัท / หนังสือ / วิชา → Singular เสมอ
+| กรณี | ตัวอย่าง |
+|------|---------|
+| ชื่อบริษัท | **Yamamoto & Associates is** expanding globally. |
+| ชื่อหนังสือ/เอกสาร | **"The New Regulations" was** released last month. |
+| วิชาเรียน | **Economics is** a required course. |
+| ประเทศที่มี plural form | **The United States has** signed the treaty. |
+| ระยะเวลา / จำนวนเงิน / ระยะทาง (รวมเป็นหน่วยเดียว) | **Three years is** a long time to wait. / **Five thousand dollars is** the budget. |
+
+### Every / Each ก่อน Compound Subject → Singular
+> **Every** manager and supervisor **is** required to attend.
+> **Each** applicant and referee **has** submitted the form.
+
+### Relative Clause ที่ขั้นระหว่าง
+> The number of employees **who** work remotely **has** increased. (subject = the number)
+> The staff members **who** were promoted **have** worked here for over 5 years. (subject = staff members)
 
 ---
 

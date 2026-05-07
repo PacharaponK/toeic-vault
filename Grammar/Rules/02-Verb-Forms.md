@@ -3,8 +3,8 @@ topic: Verb Forms
 chapter: 2
 type: rules
 toeic_parts: [5, 6]
-exercises: ["[[Grammar/Exercises/02-Verb-Forms-Ex01]]"]
-last_reviewed:
+exercises: ["[[Grammar/Exercises/Part5/02-Verb-Forms-Ex01]]"]
+last_reviewed: 2026-05-05
 ---
 
 # 02 — Verb Forms (Gerund & Infinitive)
@@ -119,7 +119,30 @@ last_reviewed:
 
 ---
 
-## ตัวอย่าง TOEIC Part 5 Style (5 ข้อ)
+## Bare Infinitive — V (base form ไม่มี to)
+
+### หลัง Causative Verbs: make / let / have + O + bare infinitive
+> The manager **made** the team **work** overtime.
+> They **let** employees **leave** early on Fridays.
+> She **had** the assistant **book** the flight.
+
+### หลัง Perception Verbs: see / hear / watch / feel / notice + O + bare infinitive / V-ing
+| โครงสร้าง | ความหมาย | ตัวอย่าง |
+|----------|----------|---------|
+| see + O + bare inf | เห็นทั้งหมด (สมบูรณ์) | I saw him **sign** the contract. |
+| see + O + V-ing | เห็นบางส่วน (กำลังทำ) | I saw him **signing** the contract. |
+
+> She **heard** the alarm **go** off. (ได้ยินตั้งแต่ต้นจนจบ)
+> He **watched** the team **present** the results. (ดูจนเสร็จ)
+> We **noticed** the price **increase**. (สังเกตเห็นการเปลี่ยนแปลง)
+
+### Help + O + bare infinitive / to infinitive (ทั้งสองใช้ได้)
+> This tool **helps** employees **(to) track** their progress.
+> Training **helps** staff **develop** new skills.
+
+---
+
+## ตัวอย่าง TOEIC Part 5 Style (8 ข้อ)
 
 1. The HR department recommends _______ the employee handbook before your first day.
    **(A) read (B) to read (C) reading (D) having read**
@@ -141,7 +164,19 @@ last_reviewed:
    **(A) generate (B) generated (C) generating (D) to generate**
    → **D** (enable + O + to V)
 
+6. The supervisor let employees _______ early because of the holiday.
+   **(A) to leave (B) leaving (C) leave (D) left**
+   → **C** (let + O + bare infinitive)
+
+7. We watched the CEO _______ the new product during the keynote.
+   **(A) to unveil (B) unveiled (C) unveil (D) unveiling**
+   → **C** (watch + O + bare infinitive = เห็นสมบูรณ์)
+
+8. Attending industry conferences helps professionals _______ their network.
+   **(A) expand (B) expanding (C) to expanding (D) expanded**
+   → **A** (help + O + bare infinitive หรือ to-infinitive)
+
 ---
 
 ## แบบฝึกหัดที่เชื่อมกับบทนี้
-- [[Grammar/Exercises/02-Verb-Forms-Ex01]]
+- [[Grammar/Exercises/Part5/02-Verb-Forms-Ex01]]

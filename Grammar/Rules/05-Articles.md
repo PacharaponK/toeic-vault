@@ -4,7 +4,7 @@ chapter: 5
 type: rules
 toeic_parts: [5, 6]
 exercises: []
-last_reviewed:
+last_reviewed: 2026-05-05
 ---
 
 # 05 — Articles

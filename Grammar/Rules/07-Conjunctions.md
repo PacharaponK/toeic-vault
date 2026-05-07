@@ -4,7 +4,7 @@ chapter: 7
 type: rules
 toeic_parts: [5, 6]
 exercises: []
-last_reviewed:
+last_reviewed: 2026-05-05
 ---
 
 # 07 — Conjunctions
@@ -50,6 +50,19 @@ last_reviewed:
 | **once** | เมื่อ (ทันทีที่) | **Once** the contract is signed, work begins. |
 | **until / till** | จนกว่า | Wait **until** the report is ready. |
 | **by the time** | ภายในเวลาที่ | **By the time** he arrived, the meeting had ended. |
+
+### แสดงจุดประสงค์ (Purpose)
+| Conjunction | ความหมาย | ตัวอย่าง |
+|-------------|----------|---------|
+| **so that / in order that** | เพื่อให้ (+ S + can/could/will/would) | She arrived early **so that** she could prepare the room. |
+| **in order to / so as to** | เพื่อ (+ bare infinitive) | He took notes **in order to** remember the key points. |
+| **for fear that / lest** | กลัวว่า (formal) | She double-checked the report, **for fear that** errors remained. |
+
+### แสดงผล (Result)
+| Conjunction | ความหมาย | ตัวอย่าง |
+|-------------|----------|---------|
+| **so...that** | ...จนกระทั่ง | The project was **so complex that** it required a specialist. |
+| **such...that** | ช่าง...จนกระทั่ง | It was **such a challenging** project **that** extra staff were hired. |
 
 ### แสดงเงื่อนไข (Condition)
 | Conjunction | ความหมาย | ตัวอย่าง |
@@ -135,6 +148,14 @@ last_reviewed:
 6. We had to postpone the launch; _______, we used the extra time to improve quality.
    **(A) however (B) but (C) although (D) yet**
    → **A** (semicolon + however = transition word)
+
+7. The instructions were printed in large font _______ all participants could read them easily.
+   **(A) because (B) so that (C) even though (D) despite**
+   → **B** (so that + S + could = purpose clause)
+
+8. The new guidelines were _______ detailed _______ managers needed a full day to review them.
+   **(A) so / that (B) such / that (C) too / to (D) very / so**
+   → **A** (so + adjective + that = result clause)
 
 ---
 

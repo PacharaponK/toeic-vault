@@ -4,7 +4,7 @@ chapter: 15
 type: rules
 toeic_parts: [5, 6]
 exercises: []
-last_reviewed:
+last_reviewed: 2026-05-05
 ---
 
 # 15 — Modals
@@ -97,6 +97,29 @@ last_reviewed:
 
 ---
 
+## Semi-modals (Modal-like Expressions) — ออก TOEIC บ่อย
+
+> กริยาวลีที่ทำหน้าที่เหมือน modal แต่ผันได้ตาม tense
+
+| Semi-modal | ความหมาย | ตัวอย่าง |
+|-----------|----------|---------|
+| **be supposed to** | ควรจะ / ถูกคาดหมายว่า (ตามแผน) | The package **is supposed to** arrive today. |
+| **be about to** | กำลังจะ (ใกล้ถึง) | The CEO **is about to** address the shareholders. |
+| **be going to** | วางแผนจะ / คาดการณ์ว่า | The company **is going to** open three new branches. |
+| **be allowed to** | ได้รับอนุญาต | Employees **are allowed to** use the gym. |
+| **be required to** | จำเป็นต้อง (กฎบังคับ) | All visitors **are required to** sign in. |
+| **be expected to** | คาดว่าจะ | Profits **are expected to** increase next quarter. |
+| **be able to** | สามารถ (ใช้แทน can ใน future/perfect) | We **will be able to** deliver by Friday. |
+| **used to** | เคย (ในอดีต — ปัจจุบันไม่แล้ว) | The office **used to** open on Saturdays. |
+| **be used to** + gerund | คุ้นเคยกับ | She **is used to** working under pressure. |
+| **get used to** + gerund | ปรับตัวจนคุ้นเคยกับ | He **got used to** the new software quickly. |
+
+> **used to** vs **be used to**: 
+> - **used to** + bare infinitive = อดีตที่ไม่มีแล้ว
+> - **be used to** + gerund = คุ้นเคยแล้ว (ปัจจุบัน)
+
+---
+
 ## Common Mistakes ใน TOEIC
 
 | ผิด | ถูก | เหตุผล |
@@ -144,6 +167,16 @@ last_reviewed:
    **(A) will (B) should (C) would (D) must**
    → **C** (preference = would rather)
 
+9. The new regulations _______ take effect on January 1st, but implementation has been delayed.
+   **(A) were supposed to (B) were able to (C) used to (D) had better**
+   → **A** (be supposed to = ถูกคาดหมายว่าจะ / ตามแผน แต่ไม่ได้เกิด)
+
+10. She has been working in international sales for so long that she _______ dealing with time zone differences.
+    **(A) is used to (B) used to (C) would rather (D) is supposed to**
+    → **A** (be used to + gerund = คุ้นเคยกับ)
+
 ---
 
 ## แบบฝึกหัดที่เชื่อมกับบทนี้
+
+- [[Grammar/Exercises/Part6/Part6-Ex02]]

@@ -4,7 +4,7 @@ chapter: 16
 type: rules
 toeic_parts: [5, 6]
 exercises: []
-last_reviewed:
+last_reviewed: 2026-05-05
 ---
 
 # 16 — Reported Speech
@@ -100,6 +100,27 @@ last_reviewed:
 
 ---
 
+## กรณีที่ไม่ต้อง Backshift (No Backshift)
+
+> ในบางกรณี tense ในประโยค reported **ไม่ต้องเปลี่ยน** แม้ reporting verb จะเป็น past
+
+### 1. Universal Truths / Scientific Facts
+> She **said** (that) the Earth **orbits** the sun. (ความจริงสากล → ไม่เปลี่ยน)
+> He **explained** (that) interest rates **affect** consumer spending.
+
+### 2. ข้อเท็จจริงที่ยังเป็นจริงอยู่ในปัจจุบัน
+> The CEO **announced** (that) the headquarters **is** in Singapore. (ยังอยู่อยู่)
+> She **confirmed** (that) the deadline **is** next Friday. (ยังเป็นอยู่)
+
+### 3. คำพูดที่เพิ่งพูด (just said)
+> He just **told** me the meeting **starts** at 3 p.m.
+
+### 4. Backshift Optional เมื่อ reporting verb เป็น present tense
+> She **says** (that) the report **is** ready. (present → no change needed)
+> He **tells** us (that) profits **have** increased.
+
+---
+
 ## Reported Questions — Word Order Changes
 
 ### Yes/No Questions → if / whether
@@ -162,6 +183,14 @@ last_reviewed:
 6. The CFO confirmed _______ the annual profit had exceeded expectations.
    **(A) what (B) that (C) how (D) when**
    → **B** (confirm + that-clause)
+
+7. The scientist explained that water _______ at 100 degrees Celsius at sea level.
+   **(A) boiled (B) boils (C) had boiled (D) was boiling**
+   → **B** (universal truth → no backshift; present tense คงไว้)
+
+8. The project lead asked the team _______ the prototype by the end of the week.
+   **(A) finish (B) finishing (C) to finish (D) that finish**
+   → **C** (ask + object + to-infinitive)
 
 ---
 

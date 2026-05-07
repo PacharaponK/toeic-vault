@@ -4,7 +4,7 @@ chapter: 9
 type: rules
 toeic_parts: [5, 6]
 exercises: []
-last_reviewed:
+last_reviewed: 2026-05-05
 ---
 
 # 09 — Adjectives & Adverbs
@@ -86,6 +86,34 @@ appear, be, become, feel, get, grow, look, remain, seem, smell, sound, stay, tas
 
 ---
 
+## ลำดับ Adjective หลายคำ (Order of Adjectives)
+
+> เมื่อใช้ adjective หลายคำขยาย noun เดียว ต้องเรียงตามลำดับนี้:
+
+**Opinion → Size → Age → Shape → Color → Origin → Material → Purpose + NOUN**
+
+| ลำดับ | หมวด | ตัวอย่าง |
+|-------|------|---------|
+| 1 | Opinion (ความเห็น) | excellent, useful, innovative, reliable |
+| 2 | Size (ขนาด) | large, small, compact, extensive |
+| 3 | Age (อายุ) | new, old, recent, established |
+| 4 | Shape (รูปร่าง) | round, square, flat, narrow |
+| 5 | Color (สี) | blue, black, white, silver |
+| 6 | Origin (ที่มา) | American, Japanese, domestic, foreign |
+| 7 | Material (วัสดุ) | glass, metal, digital, paper |
+| 8 | Purpose (จุดประสงค์) | filing (cabinet), meeting (room), training (manual) |
+
+**ตัวอย่างในบริบท TOEIC Business:**
+> a **large** **modern** conference room
+> an **excellent** **new** **Japanese** accounting software
+> a **reliable** **compact** **digital** filing system
+> the **annual** **financial** report
+
+> **กฎง่ายๆ**: opinion → fact (ทั่วไป → เฉพาะเจาะจง)
+> ใน TOEIC มักมีแค่ 2-3 adjective → ตรวจว่า opinion มาก่อน fact
+
+---
+
 ## Intensifiers — ระดับความเข้ม
 
 | ระดับ | คำ | ตัวอย่าง |
@@ -137,6 +165,14 @@ appear, be, become, feel, get, grow, look, remain, seem, smell, sound, stay, tas
 6. Ms. Park remained _______ throughout the difficult negotiation.
    **(A) calm (B) calmly (C) calming (D) calmed**
    → **A** (remained = linking verb → adjective)
+
+7. The company has developed a _______ automated inventory management system.
+   **(A) reliable new compact (B) new reliable compact (C) compact reliable new (D) reliable compact new**
+   → **A** (opinion → size/quality → age: reliable = opinion, compact = size, new = age)
+
+8. The auditors were _______ impressed by the thoroughness of the financial records.
+   **(A) high (B) highly (C) higher (D) highest**
+   → **B** (ขยาย adjective "impressed" → adverb; highly + past participle adj = ถูกต้อง)
 
 ---
 

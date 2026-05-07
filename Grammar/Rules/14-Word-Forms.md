@@ -4,7 +4,7 @@ chapter: 14
 type: rules
 toeic_parts: [5, 6]
 exercises: []
-last_reviewed:
+last_reviewed: 2026-05-05
 ---
 
 # 14 — Word Forms
@@ -148,6 +148,23 @@ last_reviewed:
 | successful / successive | successful = ประสบความสำเร็จ / successive = ต่อเนื่อง |
 | considerable / considerate | considerable = มาก / considerate = เอาใจใส่ผู้อื่น |
 | industrial / industrious | industrial = เกี่ยวกับอุตสาหกรรม / industrious = ขยัน |
+| confident / confidential | confident = มั่นใจ / confidential = ลับ |
+| comprehensive / comprehensible | comprehensive = ครอบคลุม / comprehensible = เข้าใจได้ |
+| applicable / applied | applicable = ที่ใช้บังคับได้ / applied = ประยุกต์ใช้ |
+| alternate / alternative | alternate = สลับกัน / alternative = ทางเลือกอื่น |
+| responsible / responsive | responsible = รับผิดชอบ / responsive = ตอบสนองเร็ว |
+
+### 3. คู่ Noun ที่มักสับสน
+| คู่สับสน | ความแตกต่าง |
+|---------|------------|
+| affect / effect | affect (V) = ส่งผลต่อ / effect (N) = ผลลัพธ์ |
+| advice / advise | advice (N) = คำแนะนำ / advise (V) = แนะนำ |
+| rise / raise | rise (V) = เพิ่มขึ้นเอง / raise (V) = ทำให้เพิ่มขึ้น |
+| affect / effect (ใน business context) | The merger will **affect** operations. / The **effect** of the merger is... |
+| practice / practise | practice (N) = การฝึก / practise (V British) = ฝึกปฏิบัติ |
+| principal / principle | principal = หลัก/ผู้อำนวยการ / principle = หลักการ |
+| personnel / personal | personnel = บุคลากร / personal = ส่วนตัว |
+| complement / compliment | complement = ส่วนเสริม / compliment = คำชม |
 
 ---
 
@@ -180,3 +197,5 @@ last_reviewed:
 ---
 
 ## แบบฝึกหัดที่เชื่อมกับบทนี้
+
+- [[Grammar/Exercises/Part6/Part6-Ex02]]

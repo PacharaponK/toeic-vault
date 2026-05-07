@@ -4,7 +4,7 @@ chapter: 12
 type: rules
 toeic_parts: [5, 6]
 exercises: []
-last_reviewed:
+last_reviewed: 2026-05-05
 ---
 
 # 12 — Noun Clauses
@@ -84,6 +84,25 @@ last_reviewed:
 
 ---
 
+## Embedded Questions — Word Order ที่ต้องระวัง
+
+> คำถามที่ฝังอยู่ใน noun clause ใช้ **declarative word order** (S + V) ไม่ใช่ question order (V + S)
+
+| Direct Question | Embedded Question (Noun Clause) |
+|----------------|--------------------------------|
+| **What is** the company's policy? | Please clarify **what the company's policy is**. |
+| **When does** the contract expire? | Do you know **when the contract expires**? |
+| **Where has** the document been filed? | I'm not sure **where the document has been filed**. |
+| **How many** employees **are** affected? | We need to determine **how many employees are** affected. |
+| **Who approved** the budget? | The report explains **who approved** the budget. |
+
+### เคล็ดลับ: ตรวจสอบ Word Order
+ถ้า verb อยู่ก่อน subject ใน clause → ผิด (เป็น question order)
+> ❌ I wonder **what does** the policy say.
+> ✓ I wonder **what the policy says**.
+
+---
+
 ## Common Mistakes ใน TOEIC
 
 | ผิด | ถูก | เหตุผล |
@@ -121,6 +140,14 @@ last_reviewed:
 6. _______ the two candidates are equally qualified makes the decision difficult.
    **(A) Whether (B) That (C) Because (D) What**
    → **A** (whether...makes = subject clause with uncertainty)
+
+7. The compliance officer asked _______ the updated guidelines had been distributed to all departments.
+   **(A) that (B) whether (C) what (D) which**
+   → **B** (yes/no question embedded = whether/if)
+
+8. Can you confirm _______ the final invoice has been sent to the client?
+   **(A) that (B) what (C) when (D) whether**
+   → **D** (ตรวจสอบว่า yes หรือ no = whether; "that" ก็ใช้ได้ถ้าตามด้วย statement ไม่ใช่ question)
 
 ---
 

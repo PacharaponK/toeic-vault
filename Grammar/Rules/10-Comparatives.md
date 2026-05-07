@@ -4,7 +4,7 @@ chapter: 10
 type: rules
 toeic_parts: [5, 6]
 exercises: []
-last_reviewed:
+last_reviewed: 2026-05-05
 ---
 
 # 10 — Comparatives & Superlatives
@@ -73,6 +73,24 @@ last_reviewed:
 | rather than | Use email **rather than** phone for records. |
 | no less...than | This is **no less** important **than** profitability. |
 | no more...than | The new process is **no more** expensive **than** the old. |
+
+---
+
+## Degree Modifiers กับ Comparatives
+
+> ใช้ขยาย comparative เพื่อบอกระดับความต่าง
+
+| Modifier | ความหมาย | ตัวอย่าง |
+|----------|----------|---------|
+| **much / far / a lot** | มากกว่ามาก | This model is **much more** reliable. |
+| **considerably / significantly** | มากกว่าอย่างมีนัยสำคัญ | Costs are **considerably lower** this year. |
+| **slightly / a little / a bit** | มากกว่าเล็กน้อย | The revised estimate is **slightly higher**. |
+| **no** | ไม่มากกว่า (เท่ากัน) | The new process is **no faster** than before. |
+| **even** | ยิ่งกว่านั้นอีก | The second quarter was **even better**. |
+| **far** | ห่างกันมาก | This approach is **far more** cost-effective. |
+
+> ❌ The results are **very** better. → ✓ The results are **much** better.
+> ❌ Sales are **too** higher. → ✓ Sales are **far higher**.
 
 ---
 

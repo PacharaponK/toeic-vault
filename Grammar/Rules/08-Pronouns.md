@@ -4,7 +4,7 @@ chapter: 8
 type: rules
 toeic_parts: [5, 6]
 exercises: []
-last_reviewed:
+last_reviewed: 2026-05-05
 ---
 
 # 08 — Pronouns
@@ -89,6 +89,22 @@ last_reviewed:
 ### กฎ 3: everyone/someone/anyone → traditionally singular
 > **Everyone** should bring **their** ID. *(acceptable in modern usage)*
 > **No one** has submitted **their** form yet.
+
+---
+
+## One / Ones — Substitute Pronouns
+
+> ใช้ **one / ones** แทน noun ที่กล่าวถึงก่อนหน้า เพื่อหลีกเลี่ยงการซ้ำ
+
+| กรณี | ตัวอย่าง |
+|------|---------|
+| **one** แทน singular countable noun | The old system was slow; the **new one** is much faster. |
+| **ones** แทน plural countable noun | We tested several approaches; the **digital ones** proved most effective. |
+| **the one** + relative clause | Submit the form to **the one** who handles HR inquiries. |
+| **which one** / **which ones** | **Which one** do you prefer — the monthly plan or the annual plan? |
+
+> ห้ามใช้ one/ones แทน uncountable noun
+> ❌ The old equipment was replaced by a new **one**. → ✓ ...replaced by new **equipment**.
 
 ---
 

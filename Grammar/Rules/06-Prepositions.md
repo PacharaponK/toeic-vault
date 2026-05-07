@@ -4,7 +4,7 @@ chapter: 6
 type: rules
 toeic_parts: [5, 6]
 exercises: []
-last_reviewed:
+last_reviewed: 2026-05-05
 ---
 
 # 06 — Prepositions
@@ -116,6 +116,33 @@ last_reviewed:
 
 ---
 
+## Noun + Preposition ที่ออก TOEIC บ่อย
+
+| Noun + Prep | ความหมาย | ตัวอย่าง |
+|-------------|----------|---------|
+| access **to** | การเข้าถึง | access to the database |
+| increase **in** | การเพิ่มขึ้นใน | an increase in sales |
+| decrease **in** | การลดลงใน | a decrease in costs |
+| demand **for** | ความต้องการสำหรับ | demand for the product |
+| solution **to** | ทางแก้ไข | a solution to the problem |
+| response **to** | การตอบสนองต่อ | in response to the inquiry |
+| rise **in** | การเพิ่มขึ้น | a rise in productivity |
+| delay **in** | ความล่าช้าใน | a delay in delivery |
+| interest **in** | ความสนใจใน | interest in the position |
+| experience **in / with** | ประสบการณ์ใน/กับ | experience in finance |
+| expertise **in** | ความเชี่ยวชาญใน | expertise in marketing |
+| attention **to** | ความใส่ใจต่อ | attention to detail |
+| approval **of / for** | การอนุมัติ | approval of the plan |
+| concern **about / over** | ความกังวลเกี่ยวกับ | concern about the budget |
+| knowledge **of** | ความรู้เกี่ยวกับ | knowledge of the system |
+| need **for** | ความจำเป็นสำหรับ | the need for change |
+| opportunity **for** | โอกาสสำหรับ | opportunity for growth |
+| reason **for** | เหตุผลสำหรับ | the reason for the delay |
+| responsibility **for** | ความรับผิดชอบต่อ | responsibility for the project |
+| right **to** | สิทธิ์ใน | the right to appeal |
+
+---
+
 ## Common Mistakes ใน TOEIC
 
 | ผิด | ถูก | เหตุผล |
@@ -153,6 +180,14 @@ last_reviewed:
 6. Sales increased _______ 15% compared _______ last year.
    **(A) by / to (B) at / with (C) in / at (D) for / to**
    → **A** (increased by + %, compared to)
+
+7. There has been a significant increase _______ demand for the company's premium products.
+   **(A) of (B) in (C) at (D) for**
+   → **B** (increase in = การเพิ่มขึ้นใน)
+
+8. All employees must have access _______ the updated employee handbook by Friday.
+   **(A) for (B) of (C) to (D) with**
+   → **C** (access to = การเข้าถึง)
 
 ---
 

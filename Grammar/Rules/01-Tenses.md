@@ -3,8 +3,8 @@ topic: Tenses
 chapter: 1
 type: rules
 toeic_parts: [5, 6]
-exercises: ["[[Grammar/Exercises/01-Tenses-Ex01]]"]
-last_reviewed:
+exercises: ["[[Grammar/Exercises/Part5/01-Tenses-Ex01]]"]
+last_reviewed: 2026-05-05
 ---
 
 # 01 — Tenses
@@ -41,6 +41,36 @@ last_reviewed:
 |-------|-----------|--------------|
 | Present Perfect Progressive | S + have/has + been + V-ing | for, since, all day/week, how long |
 | Past Perfect Progressive | S + had + been + V-ing | for, since (before another past action) |
+
+---
+
+## Stative Verbs — กริยาที่ห้ามใช้ Continuous
+
+> Stative verbs แสดง **สภาพ/ความรู้สึก** ไม่ใช่การกระทำ → ไม่มี -ing ในกรณีส่วนใหญ่
+
+| หมวด | กริยา |
+|------|-------|
+| **ความคิด / ความรู้** | know, believe, think*, understand, realize, remember, forget |
+| **ความรู้สึก / อารมณ์** | like, love, hate, prefer, want, wish, fear, mind |
+| **ประสาทสัมผัส** | see*, hear*, smell*, taste*, feel* |
+| **ความเป็นเจ้าของ** | have*, own, belong to, possess, contain |
+| **สถานะ / ลักษณะ** | be, seem, appear*, look*, consist of, include, involve |
+| **การวัด** | weigh, cost, measure, equal |
+
+> *บางกริยามีความหมาย 2 แบบ — ใช้ Continuous ได้เมื่อเป็น **action**
+
+| Stative (ห้าม -ing) | Action (ใช้ -ing ได้) |
+|---------------------|----------------------|
+| I **think** he is right. (เชื่อว่า) | She **is thinking** about the offer. (กำลังคิด) |
+| This **appears** correct. (ดูเหมือนว่า) | He **is appearing** in court today. (ปรากฏตัว) |
+| The food **tastes** good. (มีรสชาติ) | She **is tasting** the soup. (กำลังชิม) |
+| We **have** a meeting. (มี) | We **are having** a meeting. (จัดประชุม — action) |
+| The bag **weighs** 5 kg. (มีน้ำหนัก) | She **is weighing** the package. (กำลังชั่ง) |
+
+**ตัวอย่าง Common Mistakes:**
+> ❌ She is knowing the answer. → ✓ She **knows** the answer.
+> ❌ They are owning three offices. → ✓ They **own** three offices.
+> ❌ The contract is involving many parties. → ✓ The contract **involves** many parties.
 
 ---
 
@@ -108,8 +138,17 @@ last_reviewed:
    **(A) work (B) worked (C) have worked (D) are working**
    → **C** (for + duration continuing to present → Present Perfect)
 
+9. The new system _______ significant improvement in processing speed.
+   **(A) is containing (B) contains (C) has been containing (D) was containing**
+   → **B** (contain = stative verb → Simple Present เท่านั้น)
+
+10. Although the budget is tight, management _______ this project is essential for long-term growth.
+    **(A) is believing (B) has been believing (C) believes (D) believed**
+    → **C** (believe = stative verb → Simple Present; ความเชื่อปัจจุบัน)
+
 ---
 
 ## แบบฝึกหัดที่เชื่อมกับบทนี้
 
-- [[Grammar/Exercises/01-Tenses-Ex01]]
+- [[Grammar/Exercises/Part5/01-Tenses-Ex01]]
+- [[Grammar/Exercises/Part6/Part6-Ex02]]

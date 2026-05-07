@@ -3,8 +3,8 @@ topic: Passive Voice
 chapter: 3
 type: rules
 toeic_parts: [5, 6]
-exercises: []
-last_reviewed:
+exercises: ["[[Grammar/Exercises/Part5/03-Passive-Voice-Ex01]]"]
+last_reviewed: 2026-05-05
 ---
 
 # 03 — Passive Voice
@@ -26,14 +26,14 @@ last_reviewed:
 
 ## Passive + Modal Verbs
 
-| Modal | โครงสร้าง | ตัวอย่าง |
-|-------|-----------|---------|
-| can | can be + V3 | The form can be downloaded online. |
-| must | must be + V3 | All invoices must be approved by the CFO. |
-| should | should be + V3 | Errors should be reported immediately. |
-| may/might | may/might be + V3 | The meeting may be rescheduled. |
-| need to | need to be + V3 | The contract needs to be reviewed. |
-| have to | have to be + V3 | The report has to be submitted by noon. |
+| Modal     | โครงสร้าง         | ตัวอย่าง                                  |
+| --------- | ----------------- | ----------------------------------------- |
+| can       | can be + V3       | The form can be downloaded online.        |
+| must      | must be + V3      | All invoices must be approved by the CFO. |
+| should    | should be + V3    | Errors should be reported immediately.    |
+| may/might | may/might be + V3 | The meeting may be rescheduled.           |
+| need to   | need to be + V3   | The contract needs to be reviewed.        |
+| have to   | have to be + V3   | The report has to be submitted by noon.   |
 
 ---
 
@@ -41,20 +41,20 @@ last_reviewed:
 
 Stative passive = passive ที่แสดงสถานะ ไม่ใช่การกระทำ มักใช้กับ be + V3 + preposition
 
-| Phrase | ตัวอย่าง |
-|--------|---------|
-| be interested in | She is interested in the new position. |
-| be located in/at | The office is located in the city center. |
-| be involved in | He is involved in the merger negotiation. |
-| be concerned about | Management is concerned about the delays. |
-| be dedicated to | The team is dedicated to quality service. |
-| be known for | The firm is known for its innovative products. |
-| be based in | The company is based in Singapore. |
-| be satisfied with | Clients are satisfied with the results. |
-| be committed to | We are committed to customer satisfaction. |
-| be required to | All employees are required to attend. |
-| be scheduled to | The launch is scheduled to begin next month. |
-| be responsible for | She is responsible for the financial report. |
+| Phrase             | ตัวอย่าง                                       |
+| ------------------ | ---------------------------------------------- |
+| be interested in   | She is interested in the new position.         |
+| be located in/at   | The office is located in the city center.      |
+| be involved in     | He is involved in the merger negotiation.      |
+| be concerned about | Management is concerned about the delays.      |
+| be dedicated to    | The team is dedicated to quality service.      |
+| be known for       | The firm is known for its innovative products. |
+| be based in        | The company is based in Singapore.             |
+| be satisfied with  | Clients are satisfied with the results.        |
+| be committed to    | We are committed to customer satisfaction.     |
+| be required to     | All employees are required to attend.          |
+| be scheduled to    | The launch is scheduled to begin next month.   |
+| be responsible for | She is responsible for the financial report.   |
 
 ---
 
@@ -100,12 +100,12 @@ Stative passive = passive ที่แสดงสถานะ ไม่ใช�
 
 ## กฎเลือก Active vs Passive ใน TOEIC
 
-| ใช้ Passive เมื่อ | ใช้ Active เมื่อ |
-|------------------|-----------------|
-| ไม่รู้ว่าใครเป็นผู้กระทำ | รู้ผู้กระทำชัดเจน |
-| ผู้กระทำไม่สำคัญ | ต้องการเน้นผู้กระทำ |
-| ต้องการเน้น object | ต้องการเน้น subject |
-| สไตล์ formal/business writing | ประโยคทั่วไป |
+| ใช้ Passive เมื่อ             | ใช้ Active เมื่อ    |
+| ----------------------------- | ------------------- |
+| ไม่รู้ว่าใครเป็นผู้กระทำ      | รู้ผู้กระทำชัดเจน   |
+| ผู้กระทำไม่สำคัญ              | ต้องการเน้นผู้กระทำ |
+| ต้องการเน้น object            | ต้องการเน้น subject |
+| สไตล์ formal/business writing | ประโยคทั่วไป        |
 
 ---
 
@@ -131,6 +131,20 @@ Stative passive = passive ที่แสดงสถานะ ไม่ใช�
    **(A) was being conducted (B) is being conducted (C) has been conducted (D) will be conducted**
    → **A** (ongoing past action interrupted → past continuous passive)
 
+6. By the time the CEO returns, the restructuring plan _______ by the board.
+   **(A) will approve (B) will be approved (C) will have been approved (D) has been approved**
+   → **C** (by the time + future = Future Perfect Passive)
+
+7. All new staff _______ the company's safety procedures on their first day.
+   **(A) are briefed on (B) brief on (C) are briefing on (D) briefed on**
+   → **A** (stative passive: are briefed on = ได้รับการแนะนำเกี่ยวกับ)
+
+8. The report's findings _______ with management before being released to the public.
+   **(A) need to share (B) need to be shared (C) need sharing (D) need be shared**
+   → **B** (need to be + V3 = passive infinitive)
+
 ---
 
 ## แบบฝึกหัดที่เชื่อมกับบทนี้
+
+- [[Grammar/Exercises/Part5/03-Passive-Voice-Ex01]]

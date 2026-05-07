@@ -4,7 +4,7 @@ chapter: 11
 type: rules
 toeic_parts: [5, 6]
 exercises: []
-last_reviewed:
+last_reviewed: 2026-05-05
 ---
 
 # 11 — Relative Clauses
@@ -81,6 +81,32 @@ last_reviewed:
 
 ---
 
+## What ≠ Relative Pronoun — ข้อผิดพลาดที่พบบ่อย
+
+> **what** ทำหน้าที่เป็น noun clause (= "the thing that") **ไม่ใช่** relative pronoun ที่ขยาย noun
+
+| ใช้ that/which/who | ใช้ what |
+|--------------------|---------|
+| The report **that** I submitted... (มี antecedent = report) | **What** I submitted was the final report. (ไม่มี antecedent) |
+| The issue **that** concerns us... | **What** concerns us is the timeline. |
+| The recommendation **which** was approved... | **What** was approved is the budget. |
+
+> ❌ The thing **what** I need is approval. → ✓ The thing **that** I need is approval. / **What** I need is approval.
+
+---
+
+## Quantified Relative Clauses
+
+> ใช้ของ + relative pronoun เพื่อแสดงปริมาณ
+
+| โครงสร้าง | ตัวอย่าง |
+|----------|---------|
+| **most of which / many of which** | The reports, **most of which** were submitted late, needed revision. |
+| **some of whom / all of whom** | The candidates, **all of whom** were qualified, were interviewed. |
+| **none of which** | The proposals, **none of which** met the criteria, were rejected. |
+
+---
+
 ## Common Mistakes ใน TOEIC
 
 | ผิด | ถูก | เหตุผล |
@@ -118,6 +144,14 @@ last_reviewed:
 6. The proposal _______ was presented at last week's meeting received unanimous approval.
    **(A) who (B) whose (C) that (D) whom**
    → **C** (defining clause, สิ่ง → that/which)
+
+7. The quarterly reports, _______ were submitted late, caused a delay in the audit.
+   **(A) most of them (B) most of which (C) most of those (D) most of what**
+   → **B** (quantified relative clause: most of which)
+
+8. _______ the management team found most surprising was the rapid decline in customer retention.
+   **(A) That (B) Which (C) What (D) The thing that**
+   → **C** (what = the thing that; ไม่มี antecedent → noun clause subject)
 
 ---
 

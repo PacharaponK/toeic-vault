@@ -1,4 +1,4 @@
-# 📚 TOEIC Study Vault — คู่มือการใช้งาน
+ # 📚 TOEIC Study Vault — คู่มือการใช้งาน
 
 > ระบบเรียน TOEIC ด้วย Claude Code + Obsidian  
 > เป้าหมาย: TOEIC 800+
@@ -10,12 +10,13 @@
 ```
 TOEIC-Vault/
 ├── Grammar/
-│   ├── Rules/          ← ทฤษฎีทุกบท (01–17)
-│   ├── Exercises/      ← แบบฝึกหัด (สร้างใหม่ทุกวัน)
+│   ├── Rules/              ← ทฤษฎีทุกบท (01–17)
+│   ├── Exercises/
+│   │   ├── Part5/          ← แบบฝึกหัด Part 5 แยกตามบท [nn]-[Topic]-Ex[nn].md
+│   │   └── Part6/          ← Text Completion Part 6  Part6-Ex[nn].md
 │   └── Grammar-Index.md
 ├── Vocabulary/
 ├── Reading/
-├── Listening/
 ├── Daily/              ← daily notes + scores
 ├── Logs/               ← บันทึก session ทุกวัน
 ├── Templates/
@@ -49,7 +50,7 @@ claude
 
 ---
 
-### Step 2 — สร้าง Grammar Exercise เชื่อมกับ Rules
+### Step 2 — สร้าง Grammar Exercise (Part 5)
 
 > เปลี่ยน `[nn]` = เลขบท และ `[Topic]` = ชื่อบท เช่น `01` / `Tenses`
 
@@ -71,21 +72,25 @@ claude
 
 ---
 
-### Step 3 — สร้าง Vocabulary
+### Step 3 — สร้าง Text Completion Exercise (Part 6)
 
 ```
-เลือก Business English 5 คำสำหรับ TOEIC
-แสดงเฉพาะคำและประโยคตัวอย่าง TOEIC-style ให้ฉันก่อน โดยยังไม่บอกความหมาย
-รอให้ฉันเดาความหมายทั้ง 5 คำ จากนั้นเฉลยพร้อมคำอธิบาย
-แล้วค่อยสร้างไฟล์ Vocabulary/Business-Day[n].md ให้ครบ:
-แต่ละคำมี: ความหมายไทย, 2 ประโยคตัวอย่าง TOEIC-style,
-synonyms 2–3 คำ, TOEIC frequency (High/Med/Low)
-เพิ่ม tag #flashcard ทุกคำเพื่อใช้กับ Spaced Repetition plugin
+สร้าง Grammar/Exercises/Part6-Ex[n].md
+TOEIC Part 6 Text Completion (เลือกหัวข้อบทความได้อิสระ):
+- บทความ/อีเมล/ประกาศ ยาว 130–150 คำ มี 4 ช่องว่าง (131), (132), (133), (134)
+- แต่ละช่องว่างมีตัวเลือก (A)(B)(C)(D) 4 ตัว
+  - บางข้อทดสอบ grammar (verb form, tense, passive, connector)
+  - บางข้อทดสอบ vocabulary (word choice in context)
+  - 1 ข้อในนั้นต้องเป็น sentence insertion (เลือกประโยคทั้งประโยคที่เชื่อมเนื้อหาได้ดีที่สุด)
+- เฉลยแต่ละข้อต้องมี wikilink ไปยัง Rules note ที่เกี่ยวข้อง
+  เช่น → [[Grammar/Rules/03-Passive-Voice#passive--modal-verbs]]
+- เฉลยพร้อมคำอธิบายภาษาไทยอยู่ใน section แยกถัดจากโจทย์ทั้งหมด
+- ต้องมีตารางบันทึกคำตอบก่อนเปิดดูเฉลย
 ```
 
 ---
 
-### Step 4 — สร้าง Reading Practice
+### Step 4 — สร้าง Reading Practice (Part 7)
 
 ```
 สร้าง Reading/[วันที่]-double-passage.md
@@ -99,40 +104,14 @@ TOEIC Part 7 double passage:
 
 ---
 
-### Step 5 — สร้าง Listening Practice
-
-```
-สร้าง Listening/[วันที่วันนี้]-Part3.md
-ค้นหา TOEIC Part 3 listening practice จาก source จริงออนไลน์
-เช่น ESL Lounge หรือ ExamEnglish
-เปิดหน้า exercise แล้วดึงโจทย์และลิงก์ audio มาบันทึกในไฟล์
-จากนั้นแสดงลิงก์ audio และโจทย์ทุกข้อให้ฉัน โดยไม่มีเฉลย
-ฉันจะไปฟัง audio จากลิงก์จริง แล้วกลับมาตอบคำถาม
-```
-
-Claude จะ:
-1. ค้นหาและเปิดหน้า TOEIC Part 3 จาก source จริงออนไลน์
-2. ดึงโจทย์ทั้งหมดพร้อมตัวเลือก (A)(B)(C)(D) มาบันทึกในไฟล์
-3. แสดงลิงก์ audio และโจทย์ให้ก่อน **โดยไม่มีเฉลย**
-4. รอให้ผู้ใช้ไปฟัง audio จากลิงก์จริง แล้วกลับมาตอบ
-5. เฉลยและคำอธิบายอยู่ส่วนท้ายของไฟล์ แยกจากโจทย์
-
-โครงสร้างไฟล์:
-- source URL + ตาราง audio แต่ละ conversation
-- โจทย์ทุกข้อ (ไม่มีเฉลย)
-- ตารางบันทึกคำตอบของตัวเอง
-- เฉลยพร้อมคำอธิบาย (section ท้ายสุด)
-
----
-
-### Step 6 — บันทึก Score ลง Daily Note
+### Step 5 — บันทึก Score ลง Daily Note
 
 ```
 อัปเดต score ใน Daily/[วันที่].md ดังนี้:
-grammar_score: [x]/x
-vocab_score: [x]/x
-reading_score: [x]/x
-listening_score: [x]/x
+part5_score: [x]/10
+part6_score: [x]/4
+part7_score: [x]/5
+topics_studied: [ชื่อหัวข้อที่เรียนวันนี้]
 ```
 
 ---
@@ -179,25 +158,25 @@ Claude จะสร้าง `Logs/[วันที่]-session.md` อัตโ
 
 ## Grammar Chapter Map
 
-| บท | ไฟล์ | หัวข้อ | ออกสอบ |
-|----|------|--------|--------|
-| 01 | `Grammar/Rules/01-Tenses.md` | Tenses | ~18% |
-| 02 | `Grammar/Rules/02-Verb-Forms.md` | Verb Forms | ~12% |
-| 03 | `Grammar/Rules/03-Passive-Voice.md` | Passive Voice | ~10% |
-| 04 | `Grammar/Rules/04-Conditionals.md` | Conditionals | ~8% |
-| 05 | `Grammar/Rules/05-Articles.md` | Articles | ~10% |
-| 06 | `Grammar/Rules/06-Prepositions.md` | Prepositions | ~12% |
-| 07 | `Grammar/Rules/07-Conjunctions.md` | Conjunctions | ~8% |
-| 08 | `Grammar/Rules/08-Pronouns.md` | Pronouns | ~8% |
-| 09 | `Grammar/Rules/09-Adjectives-Adverbs.md` | Adjectives & Adverbs | ~10% |
-| 10 | `Grammar/Rules/10-Comparatives.md` | Comparatives | ~6% |
-| 11 | `Grammar/Rules/11-Relative-Clauses.md` | Relative Clauses | ~7% |
-| 12 | `Grammar/Rules/12-Noun-Clauses.md` | Noun Clauses | ~6% |
-| 13 | `Grammar/Rules/13-Subject-Verb-Agreement.md` | S-V Agreement | ~8% |
-| 14 | `Grammar/Rules/14-Word-Forms.md` | Word Forms | ~15% |
-| 15 | `Grammar/Rules/15-Modals.md` | Modals | ~8% |
-| 16 | `Grammar/Rules/16-Reported-Speech.md` | Reported Speech | ~5% |
-| 17 | `Grammar/Rules/17-Parallel-Structure.md` | Parallel Structure | ~7% |
+| บท  | ไฟล์                                         | หัวข้อ               | ออกสอบ |
+| --- | -------------------------------------------- | -------------------- | ------ |
+| 01  | `Grammar/Rules/01-Tenses.md`                 | Tenses               | ~18%   |
+| 02  | `Grammar/Rules/02-Verb-Forms.md`             | Verb Forms           | ~12%   |
+| 03  | `Grammar/Rules/03-Passive-Voice.md`          | Passive Voice        | ~10%   |
+| 04  | `Grammar/Rules/04-Conditionals.md`           | Conditionals         | ~8%    |
+| 05  | `Grammar/Rules/05-Articles.md`               | Articles             | ~10%   |
+| 06  | `Grammar/Rules/06-Prepositions.md`           | Prepositions         | ~12%   |
+| 07  | `Grammar/Rules/07-Conjunctions.md`           | Conjunctions         | ~8%    |
+| 08  | `Grammar/Rules/08-Pronouns.md`               | Pronouns             | ~8%    |
+| 09  | `Grammar/Rules/09-Adjectives-Adverbs.md`     | Adjectives & Adverbs | ~10%   |
+| 10  | `Grammar/Rules/10-Comparatives.md`           | Comparatives         | ~6%    |
+| 11  | `Grammar/Rules/11-Relative-Clauses.md`       | Relative Clauses     | ~7%    |
+| 12  | `Grammar/Rules/12-Noun-Clauses.md`           | Noun Clauses         | ~6%    |
+| 13  | `Grammar/Rules/13-Subject-Verb-Agreement.md` | S-V Agreement        | ~8%    |
+| 14  | `Grammar/Rules/14-Word-Forms.md`             | Word Forms           | ~15%   |
+| 15  | `Grammar/Rules/15-Modals.md`                 | Modals               | ~8%    |
+| 16  | `Grammar/Rules/16-Reported-Speech.md`        | Reported Speech      | ~5%    |
+| 17  | `Grammar/Rules/17-Parallel-Structure.md`     | Parallel Structure   | ~7%    |
 
 ---
 

@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-05-01.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-01"
-            }
-          },
-          {
-            "id": "2d38adb8ffa1b514",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulary/Business-Day1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Business-Day1"
+              "title": "README"
             }
           }
         ]
@@ -211,42 +197,42 @@
   },
   "active": "08acdc8bc149f713",
   "lastOpenFiles": [
-    "Logs/2026-05-01-session.md",
-    "Logs/2026-05-01-session.md.tmp.15756.1777651704305",
+    "Logs/2026-05-07-session.md",
+    "Logs/2026-05-07-session.md.tmp.15840.570cfecb9741",
+    "Daily/2026-05-07.md",
+    "Grammar/Exercises/Part6/Part6-Ex02.md",
+    "Daily/2026-05-07.md.tmp.15840.b1699a912d49",
     "README.md",
-    "Dashboard.md",
-    "Untitled.canvas",
-    "Listening/2026-05-01-Part3.md",
-    "Listening/2026-04-30-Part3.md",
-    "Logs/2026-04-30-session.md",
-    "Reading/2026-05-01-double-passage.md",
-    "Listening/2026-05-01-Part3.md.tmp.15756.1777650806867",
-    "Vocabulary/Business-Day1.md",
-    "Reading/2026-05-01-double-passage.md.tmp.15756.1777650653463",
-    "Grammar/Rules/04-Conditionals.md",
-    "Vocabulary/Business-Facilities.md",
-    "Grammar/Exercises/02-Verb-Forms-Ex01.md",
-    "Grammar/Rules/02-Verb-Forms.md",
+    "Daily/2026-05-07.md.tmp.15840.154704ec0246",
+    "Daily/2026-05-06.md",
     "Daily/2026-05-01.md",
-    "Grammar/Rules/02-Verb-Forms.md.tmp.15756.1777649606184",
-    "Daily/2026-04-30.md",
-    "Daily/2026-05-01.md.tmp.15756.1777649201887",
-    "Logs/2026-04-30-session.md.tmp.8808.1777532167242",
-    "README.md.tmp.8808.1777532003954",
-    "Templates/daily-template.md",
-    "Reading/2026-04-30-double-passage.md",
-    "Grammar/Exercises/01-Tenses-Ex01.md",
-    "Daily/2026-04-30.md.tmp.8808.1777531883394",
-    "Daily/2026-04-30.md.tmp.8808.1777531869919",
-    "Grammar/Rules/01-Tenses.md",
-    "README.md.tmp.8808.1777530928082",
+    "Daily/2026-05-07.md.tmp.15840.393e2ac9ad55",
+    "Grammar/Exercises/Part5/04-Conditionals-Ex01.md",
+    "Reading/2026-05-07-double-passage.md",
+    "Vocabulary/Business-Day1.md",
+    "Vocabulary/Business-Facilities.md",
+    "Reading/2026-05-07-double-passage.md.tmp.15840.769e256a46c1",
+    "Grammar/Rules/14-Word-Forms.md",
+    "Grammar/Rules/15-Modals.md.tmp.15840.de3028f36038",
+    "Grammar/Exercises/Part6/Part6-Ex02.md.tmp.15840.07fe48d8932c",
+    "Grammar/Rules/04-Conditionals.md",
+    "Grammar/Rules/04-Conditionals.md.tmp.15840.8a5af11a890b",
+    "Dashboard.md",
     "CLAUDE.md",
-    "Grammar/Rules/[nn]-[Topic].md",
-    "Untitled.md",
-    "Grammar/Grammar-Index.md",
-    "Grammar/Rules/17-Parallel-Structure.md",
-    "Grammar/Rules/16-Reported-Speech.md",
-    "Grammar/Rules/15-Modals.md",
-    "Grammar/Rules/14-Word-Forms.md"
+    "Grammar/Exercises/Part5/03-Passive-Voice-Ex01.md",
+    "Logs/2026-05-06-session.md",
+    "Logs/2026-05-01-session.md",
+    "Logs/2026-05-06-session.md.tmp.6996.1778072377669",
+    "Logs/2026-04-30-session.md",
+    "Grammar/Exercises/Part6/Part6-Ex01.md",
+    "Grammar/Exercises/Part6/Part6-Ex01.md.tmp.6996.1778072309489",
+    "Grammar/Exercises/Part6-Ex1.md",
+    "Grammar/Exercises/Part5/02-Verb-Forms-Ex01.md",
+    "Grammar/Exercises/Part5/01-Tenses-Ex01.md",
+    "Reading/2026-05-06-double-passage.md",
+    "Reading/2026-05-01-double-passage.md",
+    "Templates/daily-template.md",
+    "Grammar/Exercises/03-Passive-Voice-Ex1.md",
+    "Untitled.canvas"
   ]
 }

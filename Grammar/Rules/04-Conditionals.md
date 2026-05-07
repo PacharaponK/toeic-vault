@@ -4,7 +4,7 @@ chapter: 4
 type: rules
 toeic_parts: [5, 6]
 exercises: []
-last_reviewed:
+last_reviewed: 2026-05-05
 ---
 
 # 04 — Conditionals
@@ -77,6 +77,34 @@ last_reviewed:
 
 ---
 
+## Wish / If Only / Would Rather — Hypothetical Desires
+
+### Wish + Past Simple → ปรารถนาให้ปัจจุบัน/อนาคตต่างออกไป
+> I **wish** I **had** more time. (แต่จริงๆ ไม่มีเวลา)
+> She **wishes** she **worked** in the headquarters. (แต่ทำงานสาขา)
+> I **wish** the project **were** simpler. (ใช้ **were** สำหรับทุก subject — formal)
+
+### Wish + Past Perfect → เสียใจกับสิ่งที่เกิดในอดีต
+> I **wish** I **had attended** the conference. (แต่ไม่ได้ไป)
+> They **wish** they **had hired** more staff. (แต่ไม่ได้จ้าง)
+
+### Wish + Would → ปรารถนาให้ผู้อื่น/สิ่งอื่นเปลี่ยนพฤติกรรม
+> I **wish** the client **would respond** faster. (อยากให้ตอบเร็วกว่านี้)
+> She **wishes** he **would stop** interrupting in meetings.
+
+### If Only — เน้นความรู้สึกมากกว่า Wish
+> **If only** we **had started** earlier, we wouldn't be behind schedule.
+> **If only** the budget **were** larger!
+
+### Would Rather — การเลือกระหว่างสิ่งสองสิ่ง
+| โครงสร้าง | ความหมาย | ตัวอย่าง |
+|----------|----------|---------|
+| would rather + bare inf | ต้องการทำเอง | I **would rather** handle it **myself**. |
+| would rather + S + past simple | ต้องการให้คนอื่นทำ | I **would rather** she **handled** it. |
+| would rather + bare inf + than + bare inf | เลือกอันนี้ | I **would rather** email **than** call. |
+
+---
+
 ## ตาราง Common Mistakes ใน TOEIC
 
 | ผิด | ถูก | เหตุผล |
@@ -110,6 +138,20 @@ last_reviewed:
    **(A) were (B) had been (C) is (D) will be**
    → **B** (Third conditional: if + Past Perfect → เหตุการณ์อดีตที่ไม่ได้เกิด)
 
+6. The director wishes the software _______ more user-friendly features.
+   **(A) has (B) had (C) would have (D) will have**
+   → **B** (wish + Past Simple = ปรารถนาให้ปัจจุบันต่างออกไป)
+
+7. I wish we _______ the original budget estimate more carefully before signing.
+   **(A) review (B) reviewed (C) had reviewed (D) would review**
+   → **C** (wish + Past Perfect = เสียใจกับอดีตที่ผ่านไปแล้ว)
+
+8. _______ the inspection team to arrive before noon, the factory floor must be prepared by 11 a.m.
+   **(A) Should (B) Were (C) Had (D) If**
+   → **A** (inverted conditional: Should = If...should)
+
 ---
 
 ## แบบฝึกหัดที่เชื่อมกับบทนี้
+
+- [[Grammar/Exercises/Part5/04-Conditionals-Ex01]]

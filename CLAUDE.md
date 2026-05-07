@@ -8,10 +8,10 @@
 
 ## Folder Structure Rules
 - Grammar rules (ทฤษฎี) → Grammar/Rules/[nn]-[Topic].md
-- Grammar exercises (แบบฝึกหัด) → Grammar/Exercises/[nn]-[Topic]-Ex[n].md
+- Grammar exercises Part 5 (แบบฝึกหัด) → Grammar/Exercises/Part5/[nn]-[Topic]-Ex[nn].md
+- Grammar exercises Part 6 (text completion) → Grammar/Exercises/Part6/Part6-Ex[nn].md
 - Vocabulary → Vocabulary/[Category].md
 - Reading practice → Reading/[YYYY-MM-DD]-[type].md
-- Listening scripts → Listening/[YYYY-MM-DD]-Part[n].md
 - Daily notes → Daily/[YYYY-MM-DD].md
 - Session logs → Logs/[YYYY-MM-DD]-session.md
 
@@ -42,10 +42,9 @@ linked_rule: "[[[nn]-[Topic]]]]"
 ---
 date: [YYYY-MM-DD]
 type: daily
-grammar_score:
-vocab_score:
-reading_score:
-listening_score:
+part5_score:
+part6_score:
+part7_score:
 topics_studied: []
 ---
 
