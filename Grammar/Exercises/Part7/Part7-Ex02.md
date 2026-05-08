@@ -1,9 +1,10 @@
 ---
 date: 2026-05-01
-type: reading
-format: double-passage
+type: exercise
 toeic_part: 7
+format: double-passage
 topic: Corporate Training Announcement
+exercise_num: 2
 score:
 ---
 

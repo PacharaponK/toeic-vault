@@ -6,7 +6,10 @@
       "WebSearch",
       "WebFetch(domain:www.examenglish.com)",
       "WebFetch(domain:www.esl-lounge.com)",
-      "Bash(Remove-Item *)"
+      "Bash(Remove-Item *)",
+      "WebFetch(domain:developers.google.com)",
+      "WebFetch(domain:github.com)",
+      "PowerShell(New-Item *)"
     ]
   }
 }

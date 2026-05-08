@@ -11,9 +11,12 @@
 - Grammar exercises Part 5 (แบบฝึกหัด) → Grammar/Exercises/Part5/[nn]-[Topic]-Ex[nn].md
 - Grammar exercises Part 6 (text completion) → Grammar/Exercises/Part6/Part6-Ex[nn].md
 - Vocabulary → Vocabulary/[Category].md
-- Reading practice → Reading/[YYYY-MM-DD]-[type].md
-- Daily notes → Daily/[YYYY-MM-DD].md
+- Sentence mining log → Vocabulary/sentence-mining-log.md (ไฟล์เดียว เพิ่ม entry ต่อท้ายทุกวัน)
+- Reading practice (TOEIC Part 7) → Grammar/Exercises/Part7/Part7-Ex[nn].md
+- Listening practice → Listening/[YYYY-MM-DD]-[PartN].md
+- Daily notes → Daily/[YYYY-MM-DD].md (ใช้ Templates/daily-template.md)
 - Session logs → Logs/[YYYY-MM-DD]-session.md
+- Templates → Templates/[name]-template.md (อย่าสร้างในโฟลเดอร์อื่น)
 
 ## Frontmatter Requirements
 
@@ -46,6 +49,27 @@ part5_score:
 part6_score:
 part7_score:
 topics_studied: []
+---
+
+### Every Grammar/Exercises/Part7/ file must have:
+---
+date: [YYYY-MM-DD]
+type: exercise
+toeic_part: 7
+format: [single-passage / double-passage]
+topic: [topic]
+exercise_num: [n]
+score:
+---
+
+### Every Listening/ file must have:
+---
+date: [YYYY-MM-DD]
+type: listening-script
+toeic_part: [3 or 4]
+source: "[URL]"
+conversations: [n]
+score:
 ---
 
 ### Every Logs/ file must have:

@@ -1,9 +1,10 @@
 ---
 date: 2026-05-06
-type: reading
-format: double-passage
+type: exercise
 toeic_part: 7
+format: double-passage
 topic: Office Relocation
+exercise_num: 3
 score:
 ---
 

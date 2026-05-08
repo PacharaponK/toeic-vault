@@ -3,7 +3,7 @@ topic: Articles
 chapter: 5
 type: rules
 toeic_parts: [5, 6]
-exercises: []
+exercises: ["[[Grammar/Exercises/Part5/05-Articles-Ex01]]"]
 last_reviewed: 2026-05-05
 ---
 
@@ -62,41 +62,41 @@ last_reviewed: 2026-05-05
 ## Countable vs Uncountable Nouns
 
 ### Uncountable ที่มักสับสนใน TOEIC
-| ผิด | ถูก |
-|-----|-----|
+| ผิด            | ถูก                                               |
+| -------------- | ------------------------------------------------- |
 | an information | **some information** / **a piece of information** |
-| a news | **some news** / **a piece of news** |
-| an advice | **some advice** / **a piece of advice** |
-| a luggage | **a piece of luggage** / **luggage** |
-| a research | **research** / **a study** |
-| a work | **work** / **a job** / **a task** |
-| furnitures | **furniture** |
-| equipments | **equipment** |
+| a news         | **some news** / **a piece of news**               |
+| an advice      | **some advice** / **a piece of advice**           |
+| a luggage      | **a piece of luggage** / **luggage**              |
+| a research     | **research** / **a study**                        |
+| a work         | **work** / **a job** / **a task**                 |
+| furnitures     | **furniture**                                     |
+| equipments     | **equipment**                                     |
 
 ---
 
 ## Articles ใน Business English Context
 
-| สถานการณ์ | ตัวอย่าง |
-|-----------|---------|
-| ตำแหน่งงาน (specific) | She was appointed **the** CEO of the company. |
-| ตำแหน่งงาน (generic) | **A** good manager delegates effectively. |
-| ชื่อบริษัท | ~~the~~ Google, ~~the~~ Toyota (แต่ **the** BBC, **the** UN) |
-| แผนกในบริษัท | in **the** marketing department / from **the** HR team |
-| ผลิตภัณฑ์เฉพาะ | **the** iPhone, **the** Model S |
-| ความคิดรวบยอด | **The** customer is always right. |
+| สถานการณ์             | ตัวอย่าง                                                     |
+| --------------------- | ------------------------------------------------------------ |
+| ตำแหน่งงาน (specific) | She was appointed **the** CEO of the company.                |
+| ตำแหน่งงาน (generic)  | **A** good manager delegates effectively.                    |
+| ชื่อบริษัท            | ~~the~~ Google, ~~the~~ Toyota (แต่ **the** BBC, **the** UN) |
+| แผนกในบริษัท          | in **the** marketing department / from **the** HR team       |
+| ผลิตภัณฑ์เฉพาะ        | **the** iPhone, **the** Model S                              |
+| ความคิดรวบยอด         | **The** customer is always right.                            |
 
 ---
 
 ## Common Mistakes ใน TOEIC
 
-| ผิด | ถูก | เหตุผล |
-|-----|-----|--------|
-| She is **the** manager of HR. | She is **a** manager of HR. | ถ้ามีหลายคนในตำแหน่งนั้น |
-| I need **an** information. | I need **some** information. | information ไม่นับได้ |
-| The report is on **a** Table 3. | The report is on **~~a~~** Table 3. | ตาราง/หน้าที่ระบุหมายเลข → zero article |
-| He has **a** MBA. | He has **an** MBA. | /ɛm/ เสียงสระ |
-| The company is in **the** bankruptcy. | The company is in **~~the~~** bankruptcy. | abstract state → zero article |
+| ผิด                                   | ถูก                                       | เหตุผล                                  |
+| ------------------------------------- | ----------------------------------------- | --------------------------------------- |
+| She is **the** manager of HR.         | She is **a** manager of HR.               | ถ้ามีหลายคนในตำแหน่งนั้น                |
+| I need **an** information.            | I need **some** information.              | information ไม่นับได้                   |
+| The report is on **a** Table 3.       | The report is on **~~a~~** Table 3.       | ตาราง/หน้าที่ระบุหมายเลข → zero article |
+| He has **a** MBA.                     | He has **an** MBA.                        | /ɛm/ เสียงสระ                           |
+| The company is in **the** bankruptcy. | The company is in **~~the~~** bankruptcy. | abstract state → zero article           |
 
 ---
 
@@ -129,3 +129,5 @@ last_reviewed: 2026-05-05
 ---
 
 ## แบบฝึกหัดที่เชื่อมกับบทนี้
+
+- [[Grammar/Exercises/Part5/05-Articles-Ex01]]

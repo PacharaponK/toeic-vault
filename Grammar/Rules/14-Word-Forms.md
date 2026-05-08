@@ -76,62 +76,62 @@ last_reviewed: 2026-05-05
 
 ## 60 TOEIC Word Families ที่ออกบ่อยที่สุด
 
-| Noun | Verb | Adjective | Adverb |
-|------|------|-----------|--------|
-| application | apply | applicable | — |
-| approval | approve | approved / approving | — |
-| competition | compete | competitive | competitively |
-| compliance | comply | compliant | — |
-| consideration | consider | considerable | considerably |
-| contribution | contribute | contributory | — |
-| decision | decide | decisive | decisively |
-| development | develop | developed / developing | — |
-| difference | differ | different | differently |
-| discussion | discuss | discussable | — |
-| distribution | distribute | distributive | — |
-| effectiveness | — | effective | effectively |
-| efficiency | — | efficient | efficiently |
-| employment | employ | employed / employable | — |
-| establishment | establish | established | — |
-| evaluation | evaluate | evaluative | — |
-| expansion | expand | expansive | — |
-| experience | experience | experienced | — |
-| flexibility | — | flexible | flexibly |
-| implementation | implement | implemented | — |
-| improvement | improve | improved | — |
-| information | inform | informative | informatively |
-| investment | invest | invested | — |
-| management | manage | manageable | manageably |
-| manufacturer | manufacture | manufactured | — |
-| motivation | motivate | motivated / motivating | — |
-| negotiation | negotiate | negotiable | — |
-| operation | operate | operational | operationally |
-| organization | organize | organized / organizational | — |
-| performance | perform | performing | — |
-| preparation | prepare | prepared | — |
-| productivity | produce | productive | productively |
-| profitability | profit | profitable | profitably |
-| promotion | promote | promotional | — |
-| qualification | qualify | qualified | — |
-| recommendation | recommend | recommended | — |
-| reduction | reduce | reduced | — |
-| reliability | — | reliable | reliably |
-| replacement | replace | replaceable | — |
-| requirement | require | required / requisite | — |
-| responsibility | — | responsible | responsibly |
-| satisfaction | satisfy | satisfied / satisfying | satisfactorily |
-| selection | select | selective | selectively |
-| significance | signify | significant | significantly |
-| specialization | specialize | specialized | — |
-| stability | stabilize | stable | stably |
-| strategy | strategize | strategic | strategically |
-| submission | submit | submitted | — |
-| supervision | supervise | supervisory | — |
-| training | train | trained | — |
-| understanding | understand | understandable | understandably |
-| variation | vary | various / variable | variously |
-| verification | verify | verified / verifiable | — |
-| violation | violate | violating | — |
+| Noun           | Verb        | Adjective                  | Adverb         |
+| -------------- | ----------- | -------------------------- | -------------- |
+| application    | apply       | applicable                 | —              |
+| approval       | approve     | approved / approving       | —              |
+| competition    | compete     | competitive                | competitively  |
+| compliance     | comply      | compliant                  | —              |
+| consideration  | consider    | considerable               | considerably   |
+| contribution   | contribute  | contributory               | —              |
+| decision       | decide      | decisive                   | decisively     |
+| development    | develop     | developed / developing     | —              |
+| difference     | differ      | different                  | differently    |
+| discussion     | discuss     | discussable                | —              |
+| distribution   | distribute  | distributive               | —              |
+| effectiveness  | —           | effective                  | effectively    |
+| efficiency     | —           | efficient                  | efficiently    |
+| employment     | employ      | employed / employable      | —              |
+| establishment  | establish   | established                | —              |
+| evaluation     | evaluate    | evaluative                 | —              |
+| expansion      | expand      | expansive                  | —              |
+| experience     | experience  | experienced                | —              |
+| flexibility    | —           | flexible                   | flexibly       |
+| implementation | implement   | implemented                | —              |
+| improvement    | improve     | improved                   | —              |
+| information    | inform      | informative                | informatively  |
+| investment     | invest      | invested                   | —              |
+| management     | manage      | manageable                 | manageably     |
+| manufacturer   | manufacture | manufactured               | —              |
+| motivation     | motivate    | motivated / motivating     | —              |
+| negotiation    | negotiate   | negotiable                 | —              |
+| operation      | operate     | operational                | operationally  |
+| organization   | organize    | organized / organizational | —              |
+| performance    | perform     | performing                 | —              |
+| preparation    | prepare     | prepared                   | —              |
+| productivity   | produce     | productive                 | productively   |
+| profitability  | profit      | profitable                 | profitably     |
+| promotion      | promote     | promotional                | —              |
+| qualification  | qualify     | qualified                  | —              |
+| recommendation | recommend   | recommended                | —              |
+| reduction      | reduce      | reduced                    | —              |
+| reliability    | —           | reliable                   | reliably       |
+| replacement    | replace     | replaceable                | —              |
+| requirement    | require     | required / requisite       | —              |
+| responsibility | —           | responsible                | responsibly    |
+| satisfaction   | satisfy     | satisfied / satisfying     | satisfactorily |
+| selection      | select      | selective                  | selectively    |
+| significance   | signify     | significant                | significantly  |
+| specialization | specialize  | specialized                | —              |
+| stability      | stabilize   | stable                     | stably         |
+| strategy       | strategize  | strategic                  | strategically  |
+| submission     | submit      | submitted                  | —              |
+| supervision    | supervise   | supervisory                | —              |
+| training       | train       | trained                    | —              |
+| understanding  | understand  | understandable             | understandably |
+| variation      | vary        | various / variable         | variously      |
+| verification   | verify      | verified / verifiable      | —              |
+| violation      | violate     | violating                  | —              |
 
 ---
 

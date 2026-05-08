@@ -1,9 +1,10 @@
 ---
 date: 2026-04-30
-type: double-passage
+type: exercise
 toeic_part: 7
+format: double-passage
 topic: Office Renovation and Temporary Relocation
-docs: [email, memo]
+exercise_num: 1
 score:
 ---
 

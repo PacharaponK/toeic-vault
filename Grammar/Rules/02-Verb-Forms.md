@@ -46,23 +46,23 @@ last_reviewed: 2026-05-05
 
 ## Verbs + Gerund ONLY
 
-| Verb | ตัวอย่าง |
-|------|---------|
-| enjoy | enjoy working with data |
-| avoid | avoid making the same mistake |
-| consider | consider moving to a new office |
-| suggest | suggest holding a meeting |
-| recommend | recommend reading this report |
-| admit | admit making an error |
-| deny | deny taking the documents |
-| finish | finish completing the form |
-| keep | keep trying until you succeed |
-| mind | mind sharing your opinion |
-| miss | miss attending the annual gala |
-| postpone | postpone submitting the report |
-| practice | practice speaking in public |
-| risk | risk losing the contract |
-| quit | quit smoking |
+| Verb      | ตัวอย่าง                        |
+| --------- | ------------------------------- |
+| enjoy     | enjoy working with data         |
+| avoid     | avoid making the same mistake   |
+| consider  | consider moving to a new office |
+| suggest   | suggest holding a meeting       |
+| recommend | recommend reading this report   |
+| admit     | admit making an error           |
+| deny      | deny taking the documents       |
+| finish    | finish completing the form      |
+| keep      | keep trying until you succeed   |
+| mind      | mind sharing your opinion       |
+| miss      | miss attending the annual gala  |
+| postpone  | postpone submitting the report  |
+| practice  | practice speaking in public     |
+| risk      | risk losing the contract        |
+| quit      | quit smoking                    |
 
 ---
 

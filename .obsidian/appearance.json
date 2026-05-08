@@ -1,1 +1,10 @@
-{}
+{
+  "cssTheme": "",
+  "accentColor": "",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Noto Sans Thai",
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "textFontFamily": "Noto Sans Thai",
+  "monospaceFontFamily": "Noto Sans Thai"
+}

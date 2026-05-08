@@ -3,7 +3,7 @@ topic: Subject-Verb Agreement
 chapter: 13
 type: rules
 toeic_parts: [5, 6]
-exercises: []
+exercises: ["[[Grammar/Exercises/Part6/Part6-Ex03]]"]
 last_reviewed: 2026-05-05
 ---
 
@@ -174,3 +174,5 @@ last_reviewed: 2026-05-05
 ---
 
 ## แบบฝึกหัดที่เชื่อมกับบทนี้
+
+- [[Grammar/Exercises/Part6/Part6-Ex03]]

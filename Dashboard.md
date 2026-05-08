@@ -6,25 +6,19 @@ type: dashboard
 
 ## 📊 คะแนน 7 วันล่าสุด
 ```dataview
-TABLE grammar_score AS "Grammar",
-      vocab_score AS "Vocab",
-      reading_score AS "Reading",
-      listening_score AS "Listening"
+TABLE part5_score AS "Part 5",
+      part6_score AS "Part 6",
+      part7_score AS "Part 7"
 FROM "Daily"
 WHERE type = "daily" AND date >= date(today) - dur(7 days)
 SORT date DESC
 ```
 
-## 📈 ค่าเฉลี่ยรายทักษะ
+## 📈 บทที่ยังไม่มีแบบฝึกหัด
 ```dataview
-TABLE WITHOUT ID
-  round(average(rows.grammar_score)) AS "Grammar avg",
-  round(average(rows.vocab_score)) AS "Vocab avg",
-  round(average(rows.reading_score)) AS "Reading avg",
-  round(average(rows.listening_score)) AS "Listening avg"
-FROM "Daily"
-WHERE type = "daily" AND grammar_score != null
-GROUP BY true
+LIST topic
+FROM "Grammar/Rules"
+WHERE length(file.inlinks) = 0
 ```
 
 ## ✏️ Grammar Exercises ล่าสุด
@@ -36,16 +30,18 @@ SORT date DESC
 LIMIT 8
 ```
 
-## ❌ บทที่ยังไม่มีแบบฝึกหัด
+## 🎧 Listening ล่าสุด
 ```dataview
-LIST topic
-FROM "Grammar/Rules"
-WHERE length(file.inlinks) = 0
+TABLE toeic_part AS "Part", conversations AS "บทสนทนา", score AS "คะแนน"
+FROM "Listening"
+WHERE type = "listening-script"
+SORT date DESC
+LIMIT 5
 ```
 
 ## 📋 Session Logs ล่าสุด
 ```dataview
-TABLE topics_covered, files_created, weak_points
+TABLE topics_covered, weak_points
 FROM "Logs"
 WHERE type = "session-log"
 SORT date DESC

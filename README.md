@@ -12,18 +12,20 @@ TOEIC-Vault/
 ├── Grammar/
 │   ├── Rules/              ← ทฤษฎีทุกบท (01–17)
 │   ├── Exercises/
-│   │   ├── Part5/          ← แบบฝึกหัด Part 5 แยกตามบท [nn]-[Topic]-Ex[nn].md
-│   │   └── Part6/          ← Text Completion Part 6  Part6-Ex[nn].md
+│   │   ├── Part5/          ← แบบฝึกหัด Part 5  [nn]-[Topic]-Ex[nn].md
+│   │   ├── Part6/          ← Text Completion Part 6  Part6-Ex[nn].md
+│   │   └── Part7/          ← Reading Comprehension Part 7  Part7-Ex[nn].md
 │   └── Grammar-Index.md
 ├── Vocabulary/
-├── Reading/
-├── Daily/              ← daily notes + scores
-├── Logs/               ← บันทึก session ทุกวัน
+│   └── sentence-mining-log.md  ← บันทึกคำศัพท์ + my sentence ทุกวัน
+├── Listening/              ← Listening practice Part 3/4
+├── Daily/                  ← daily notes + scores
+├── Logs/                   ← บันทึก session ทุกวัน
 ├── Templates/
 │   └── daily-template.md
 ├── Dashboard.md
 ├── CLAUDE.md
-└── README.md           ← ไฟล์นี้
+└── README.md               ← ไฟล์นี้
 ```
 
 ---
@@ -93,13 +95,14 @@ TOEIC Part 6 Text Completion (เลือกหัวข้อบทควา�
 ### Step 4 — สร้าง Reading Practice (Part 7)
 
 ```
-สร้าง Reading/[วันที่]-double-passage.md
-TOEIC Part 7 double passage:
-- Doc 1: Email เรื่อง [หัวข้อ] (150 คำ)
-- Doc 2: Memo ตอบรับ (120 คำ)
-- โจทย์ 5 ข้อ (ข้อ 5 ต้องใช้ข้อมูลจากทั้ง 2 docs)
+สร้าง Grammar/Exercises/Part7/Part7-Ex[nn].md
+TOEIC Part 7 (single หรือ double passage):
+- Double: Doc 1 Email (150 คำ) + Doc 2 Memo (120 คำ)
+- Single: Passage เดียว (150–200 คำ)
+- โจทย์ 5 ข้อ (double passage: ข้อ 5 ต้องใช้ข้อมูลจากทั้ง 2 docs)
 - เฉลยพร้อม line reference
 - คำศัพท์ยาก 3 คำ + link ไป Vocabulary/
+- บันทึกคำศัพท์ใหม่ลงใน Vocabulary/sentence-mining-log.md ด้วย
 ```
 
 ---

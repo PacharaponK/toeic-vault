@@ -1,9 +1,10 @@
 ---
 date: 2026-05-07
-type: reading
-format: double-passage
+type: exercise
 toeic_part: 7
+format: double-passage
 topic: New Procurement Software Training
+exercise_num: 4
 score:
 ---
 
