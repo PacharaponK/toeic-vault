@@ -28,11 +28,11 @@ last_reviewed: 2026-05-05
 
 ## IN / ON / AT — สำหรับสถานที่
 
-| Preposition | ใช้กับ | ตัวอย่าง |
-|-------------|--------|---------|
-| **AT** | จุดเฉพาะ / สถานที่ประกอบกิจกรรม | at the office, at the airport, at the reception desk |
-| **ON** | พื้นผิว / ถนน / ชั้น | on the table, on Main Street, on the third floor |
-| **IN** | พื้นที่ปิดล้อม / เมือง / ประเทศ | in the building, in Bangkok, in Thailand |
+| Preposition | ใช้กับ                          | ตัวอย่าง                                             |
+| ----------- | ------------------------------- | ---------------------------------------------------- |
+| **AT**      | จุดเฉพาะ / สถานที่ประกอบกิจกรรม | at the office, at the airport, at the reception desk |
+| **ON**      | พื้นผิว / ถนน / ชั้น            | on the table, on Main Street, on the third floor     |
+| **IN**      | พื้นที่ปิดล้อม / เมือง / ประเทศ | in the building, in Bangkok, in Thailand             |
 
 ---
 
@@ -60,86 +60,86 @@ last_reviewed: 2026-05-05
 
 ## Adjective + Preposition ที่ออก TOEIC บ่อย
 
-| Adj + Prep | ความหมาย | ตัวอย่าง |
-|------------|----------|---------|
-| responsible **for** | รับผิดชอบ | responsible for quality control |
-| familiar **with** | คุ้นเคยกับ | familiar with the software |
-| capable **of** | สามารถทำได้ | capable of handling pressure |
-| eligible **for** | มีสิทธิ์ | eligible for the promotion |
-| committed **to** | มุ่งมั่นต่อ | committed to excellence |
-| satisfied **with** | พอใจกับ | satisfied with the results |
-| aware **of** | ตระหนักถึง | aware of the risks |
-| interested **in** | สนใจใน | interested in the proposal |
-| concerned **about** | กังวลเกี่ยวกับ | concerned about the deadline |
-| grateful **for** | ขอบคุณสำหรับ | grateful for the opportunity |
-| based **on** | อิงจาก | based on the latest data |
-| related **to** | เกี่ยวข้องกับ | related to the main issue |
-| suitable **for** | เหมาะสมสำหรับ | suitable for all skill levels |
-| prior **to** | ก่อน | prior to the meeting |
+| Adj + Prep          | ความหมาย       | ตัวอย่าง                        |
+| ------------------- | -------------- | ------------------------------- |
+| responsible **for** | รับผิดชอบ      | responsible for quality control |
+| familiar **with**   | คุ้นเคยกับ     | familiar with the software      |
+| capable **of**      | สามารถทำได้    | capable of handling pressure    |
+| eligible **for**    | มีสิทธิ์       | eligible for the promotion      |
+| committed **to**    | มุ่งมั่นต่อ    | committed to excellence         |
+| satisfied **with**  | พอใจกับ        | satisfied with the results      |
+| aware **of**        | ตระหนักถึง     | aware of the risks              |
+| interested **in**   | สนใจใน         | interested in the proposal      |
+| concerned **about** | กังวลเกี่ยวกับ | concerned about the deadline    |
+| grateful **for**    | ขอบคุณสำหรับ   | grateful for the opportunity    |
+| based **on**        | อิงจาก         | based on the latest data        |
+| related **to**      | เกี่ยวข้องกับ  | related to the main issue       |
+| suitable **for**    | เหมาะสมสำหรับ  | suitable for all skill levels   |
+| prior **to**        | ก่อน           | prior to the meeting            |
 
 ---
 
 ## 30 Business English Prepositional Phrases ที่ออก TOEIC บ่อย
 
-| Phrase | ความหมาย |
-|--------|----------|
-| **in accordance with** | ตามที่กำหนด / สอดคล้องกับ |
-| **on behalf of** | ในนามของ |
-| **in charge of** | รับผิดชอบ / ดูแล |
-| **in terms of** | ในแง่ของ |
-| **as a result of** | อันเป็นผลมาจาก |
-| **in addition to** | นอกจาก...แล้ว |
-| **instead of** | แทนที่จะ |
-| **in spite of** | แม้จะมี |
-| **regardless of** | ไม่ว่าจะ |
-| **on account of** | เนื่องด้วย |
-| **in response to** | เพื่อตอบสนองต่อ |
-| **in order to** | เพื่อที่จะ |
-| **due to** | เนื่องจาก |
-| **with respect to** | เกี่ยวกับ |
-| **in reference to** | อ้างถึง |
-| **by means of** | โดยวิธีของ |
-| **in the absence of** | ในกรณีที่ไม่มี |
-| **at the discretion of** | ขึ้นอยู่กับดุลพินิจของ |
-| **on a regular basis** | เป็นประจำ |
-| **under no circumstances** | ไม่ว่าในกรณีใดก็ตาม |
-| **at your earliest convenience** | โดยเร็วที่สุดเท่าที่สะดวก |
-| **in the event of** | ในกรณีที่เกิด |
-| **in compliance with** | ตามกฎ/ข้อบังคับ |
-| **subject to** | ขึ้นอยู่กับ / ภายใต้เงื่อนไข |
-| **in conjunction with** | ร่วมกับ |
-| **as of** | ณ วันที่ / ตั้งแต่ |
-| **with regard to** | เกี่ยวกับ |
-| **on the basis of** | บนพื้นฐานของ |
-| **for the purpose of** | เพื่อวัตถุประสงค์ |
-| **in light of** | เมื่อพิจารณาจาก |
+| Phrase                           | ความหมาย                     |
+| -------------------------------- | ---------------------------- |
+| **in accordance with**           | ตามที่กำหนด / สอดคล้องกับ    |
+| **on behalf of**                 | ในนามของ                     |
+| **in charge of**                 | รับผิดชอบ / ดูแล             |
+| **in terms of**                  | ในแง่ของ                     |
+| **as a result of**               | อันเป็นผลมาจาก               |
+| **in addition to**               | นอกจาก...แล้ว                |
+| **instead of**                   | แทนที่จะ                     |
+| **in spite of**                  | แม้จะมี                      |
+| **regardless of**                | ไม่ว่าจะ                     |
+| **on account of**                | เนื่องด้วย                   |
+| **in response to**               | เพื่อตอบสนองต่อ              |
+| **in order to**                  | เพื่อที่จะ                   |
+| **due to**                       | เนื่องจาก                    |
+| **with respect to**              | เกี่ยวกับ                    |
+| **in reference to**              | อ้างถึง                      |
+| **by means of**                  | โดยวิธีของ                   |
+| **in the absence of**            | ในกรณีที่ไม่มี               |
+| **at the discretion of**         | ขึ้นอยู่กับดุลพินิจของ       |
+| **on a regular basis**           | เป็นประจำ                    |
+| **under no circumstances**       | ไม่ว่าในกรณีใดก็ตาม          |
+| **at your earliest convenience** | โดยเร็วที่สุดเท่าที่สะดวก    |
+| **in the event of**              | ในกรณีที่เกิด                |
+| **in compliance with**           | ตามกฎ/ข้อบังคับ              |
+| **subject to**                   | ขึ้นอยู่กับ / ภายใต้เงื่อนไข |
+| **in conjunction with**          | ร่วมกับ                      |
+| **as of**                        | ณ วันที่ / ตั้งแต่           |
+| **with regard to**               | เกี่ยวกับ                    |
+| **on the basis of**              | บนพื้นฐานของ                 |
+| **for the purpose of**           | เพื่อวัตถุประสงค์            |
+| **in light of**                  | เมื่อพิจารณาจาก              |
 
 ---
 
 ## Noun + Preposition ที่ออก TOEIC บ่อย
 
-| Noun + Prep | ความหมาย | ตัวอย่าง |
-|-------------|----------|---------|
-| access **to** | การเข้าถึง | access to the database |
-| increase **in** | การเพิ่มขึ้นใน | an increase in sales |
-| decrease **in** | การลดลงใน | a decrease in costs |
-| demand **for** | ความต้องการสำหรับ | demand for the product |
-| solution **to** | ทางแก้ไข | a solution to the problem |
-| response **to** | การตอบสนองต่อ | in response to the inquiry |
-| rise **in** | การเพิ่มขึ้น | a rise in productivity |
-| delay **in** | ความล่าช้าใน | a delay in delivery |
-| interest **in** | ความสนใจใน | interest in the position |
-| experience **in / with** | ประสบการณ์ใน/กับ | experience in finance |
-| expertise **in** | ความเชี่ยวชาญใน | expertise in marketing |
-| attention **to** | ความใส่ใจต่อ | attention to detail |
-| approval **of / for** | การอนุมัติ | approval of the plan |
-| concern **about / over** | ความกังวลเกี่ยวกับ | concern about the budget |
-| knowledge **of** | ความรู้เกี่ยวกับ | knowledge of the system |
-| need **for** | ความจำเป็นสำหรับ | the need for change |
-| opportunity **for** | โอกาสสำหรับ | opportunity for growth |
-| reason **for** | เหตุผลสำหรับ | the reason for the delay |
-| responsibility **for** | ความรับผิดชอบต่อ | responsibility for the project |
-| right **to** | สิทธิ์ใน | the right to appeal |
+| Noun + Prep              | ความหมาย           | ตัวอย่าง                       |
+| ------------------------ | ------------------ | ------------------------------ |
+| access **to**            | การเข้าถึง         | access to the database         |
+| increase **in**          | การเพิ่มขึ้นใน     | an increase in sales           |
+| decrease **in**          | การลดลงใน          | a decrease in costs            |
+| demand **for**           | ความต้องการสำหรับ  | demand for the product         |
+| solution **to**          | ทางแก้ไข           | a solution to the problem      |
+| response **to**          | การตอบสนองต่อ      | in response to the inquiry     |
+| rise **in**              | การเพิ่มขึ้น       | a rise in productivity         |
+| delay **in**             | ความล่าช้าใน       | a delay in delivery            |
+| interest **in**          | ความสนใจใน         | interest in the position       |
+| experience **in / with** | ประสบการณ์ใน/กับ   | experience in finance          |
+| expertise **in**         | ความเชี่ยวชาญใน    | expertise in marketing         |
+| attention **to**         | ความใส่ใจต่อ       | attention to detail            |
+| approval **of / for**    | การอนุมัติ         | approval of the plan           |
+| concern **about / over** | ความกังวลเกี่ยวกับ | concern about the budget       |
+| knowledge **of**         | ความรู้เกี่ยวกับ   | knowledge of the system        |
+| need **for**             | ความจำเป็นสำหรับ   | the need for change            |
+| opportunity **for**      | โอกาสสำหรับ        | opportunity for growth         |
+| reason **for**           | เหตุผลสำหรับ       | the reason for the delay       |
+| responsibility **for**   | ความรับผิดชอบต่อ   | responsibility for the project |
+| right **to**             | สิทธิ์ใน           | the right to appeal            |
 
 ---
 
@@ -192,3 +192,5 @@ last_reviewed: 2026-05-05
 ---
 
 ## แบบฝึกหัดที่เชื่อมกับบทนี้
+
+- [[Grammar/Exercises/Part5/06-Prepositions-Ex01]] — Part 5 (2026-05-09)
