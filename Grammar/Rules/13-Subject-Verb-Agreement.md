@@ -176,3 +176,4 @@ last_reviewed: 2026-05-05
 ## แบบฝึกหัดที่เชื่อมกับบทนี้
 
 - [[Grammar/Exercises/Part6/Part6-Ex03]]
+- [[Grammar/Exercises/Part6/Part6-Ex06]]

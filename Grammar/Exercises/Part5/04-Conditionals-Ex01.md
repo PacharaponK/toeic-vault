@@ -5,7 +5,7 @@ type: exercise
 exercise_num: 1
 date: 2026-05-07
 score:
-linked_rule: "[[04-Conditionals]]"
+linked_rule: "[[Grammar/Rules/04-Conditionals]]"
 ---
 
 # 04 — Conditionals | แบบฝึกหัด Part 5 ชุดที่ 1

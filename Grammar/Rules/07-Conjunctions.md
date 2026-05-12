@@ -161,6 +161,7 @@ last_reviewed: 2026-05-05
 
 ## แบบฝึกหัดที่เชื่อมกับบทนี้
 
+- [[Grammar/Exercises/Part6/Part6-Ex01]] — Part 6 (2026-05-06)
 - [[Grammar/Exercises/Part6/Part6-Ex04]] — Part 6 (2026-05-09)
 - [[Grammar/Exercises/Part5/07-Conjunctions-Ex01]] — Part 5 (2026-05-10)
 - [[Grammar/Exercises/Part6/Part6-Ex05]] — Part 6 (2026-05-10)

@@ -80,6 +80,31 @@ description: Sentence Mining with Production — บันทึกคำศั�
 
 ---
 
+## 2026-05-12
+
+### itinerary *(noun)*
+- **ความหมาย:** กำหนดการเดินทาง / ตารางการเดินทางแบบละเอียด (trip plan with dates and places)
+- **Synonyms:** travel schedule, travel plan, agenda, route plan
+- **Source:** "A detailed itinerary and preliminary budget breakdown are attached for your consideration."
+- **My sentence:** _(เขียนเอง)_
+- **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex08]]
+
+### reimburse *(verb)*
+- **ความหมาย:** คืนเงิน / ชดใช้ค่าใช้จ่ายที่จ่ายไปแล้ว
+- **Synonyms:** repay, compensate, refund, pay back
+- **Source:** "The company will reimburse the following costs for approved events: registration fees up to $1,000..."
+- **My sentence:** _(เขียนเอง)_
+- **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex08]]
+
+### incidental *(adjective)*
+- **ความหมาย:** เล็กน้อย / เบ็ดเตล็ด — มักใช้ใน "incidental expenses" หมายถึงค่าใช้จ่ายปลีกย่อยระหว่างการเดินทาง
+- **Synonyms:** minor, miscellaneous, secondary, ancillary
+- **Source:** "Meals and incidental expenses remain the employee's responsibility."
+- **My sentence:** _(เขียนเอง)_
+- **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex08]]
+
+---
+
 <!-- Template สำหรับวันถัดไป
 
 ## YYYY-MM-DD

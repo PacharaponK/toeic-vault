@@ -11,15 +11,15 @@ last_reviewed: 2026-05-05
 
 ## Subject / Object / Possessive Pronouns
 
-| Subject | Object | Possessive Adj | Possessive Pronoun | Reflexive |
-|---------|--------|----------------|-------------------|-----------|
-| I | me | my | mine | myself |
-| you | you | your | yours | yourself |
-| he | him | his | his | himself |
-| she | her | her | hers | herself |
-| it | it | its | its | itself |
-| we | us | our | ours | ourselves |
-| they | them | their | theirs | themselves |
+| Subject | Object | Possessive Adj | Possessive Pronoun | Reflexive  |
+| ------- | ------ | -------------- | ------------------ | ---------- |
+| I       | me     | my             | mine               | myself     |
+| you     | you    | your           | yours              | yourself   |
+| he      | him    | his            | his                | himself    |
+| she     | her    | her            | hers               | herself    |
+| it      | it     | its            | its                | itself     |
+| we      | us     | our            | ours               | ourselves  |
+| they    | them   | their          | theirs             | themselves |
 
 > **its** (possessive) ≠ **it's** (it is) — ข้อผิดพลาดที่ออก TOEIC บ่อยมาก
 
@@ -44,13 +44,13 @@ last_reviewed: 2026-05-05
 
 ## Relative Pronouns — กฎการเลือก
 
-| Pronoun | ใช้กับ | บทบาทใน clause |
-|---------|--------|----------------|
-| **who** | คน (subject) | The manager **who** signed the contract... |
-| **whom** | คน (object) | The candidate **whom** we interviewed... |
-| **which** | สิ่ง/สัตว์ | The report, **which** was submitted late... |
-| **that** | คน/สิ่ง (defining only) | The document **that** you requested... |
-| **whose** | แสดงความเป็นเจ้าของ | The employee **whose** proposal was accepted... |
+| Pronoun   | ใช้กับ                  | บทบาทใน clause                                  |
+| --------- | ----------------------- | ----------------------------------------------- |
+| **who**   | คน (subject)            | The manager **who** signed the contract...      |
+| **whom**  | คน (object)             | The candidate **whom** we interviewed...        |
+| **which** | สิ่ง/สัตว์              | The report, **which** was submitted late...     |
+| **that**  | คน/สิ่ง (defining only) | The document **that** you requested...          |
+| **whose** | แสดงความเป็นเจ้าของ     | The employee **whose** proposal was accepted... |
 
 ### who vs whom
 - **who** = subject → The manager **who** leads the team
@@ -66,13 +66,13 @@ last_reviewed: 2026-05-05
 
 ## Indefinite Pronouns
 
-| คำ | กริยา | ตัวอย่าง |
-|----|-------|---------|
-| **each / every** | singular | **Each** employee **has** a login. |
-| **either / neither** | singular | **Neither** option **is** acceptable. |
-| **everyone / someone / anyone** | singular | **Everyone** **is** welcome. |
-| **both / several / few / many** | plural | **Both** candidates **are** qualified. |
-| **all / some / none** | ดูที่ noun หลัง of | **All of the information is** accurate. / **All of the reports are** ready. |
+| คำ                              | กริยา              | ตัวอย่าง                                                                    |
+| ------------------------------- | ------------------ | --------------------------------------------------------------------------- |
+| **each / every**                | singular           | **Each** employee **has** a login.                                          |
+| **either / neither**            | singular           | **Neither** option **is** acceptable.                                       |
+| **everyone / someone / anyone** | singular           | **Everyone** **is** welcome.                                                |
+| **both / several / few / many** | plural             | **Both** candidates **are** qualified.                                      |
+| **all / some / none**           | ดูที่ noun หลัง of | **All of the information is** accurate. / **All of the reports are** ready. |
 
 ---
 
@@ -150,3 +150,6 @@ last_reviewed: 2026-05-05
 ---
 
 ## แบบฝึกหัดที่เชื่อมกับบทนี้
+
+- [[Grammar/Exercises/Part5/08-Pronouns-Ex01]]
+- [[Grammar/Exercises/Part6/Part6-Ex06]]
