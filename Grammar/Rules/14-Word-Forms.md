@@ -199,3 +199,4 @@ last_reviewed: 2026-05-05
 ## แบบฝึกหัดที่เชื่อมกับบทนี้
 
 - [[Grammar/Exercises/Part6/Part6-Ex02]]
+- [[Grammar/Exercises/Part6/Part6-Ex05]] — Part 6 (2026-05-10)

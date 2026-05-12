@@ -55,6 +55,31 @@ description: Sentence Mining with Production — บันทึกคำศั�
 
 ---
 
+## 2026-05-10
+
+### procurement *(noun)*
+- **ความหมาย:** กระบวนการจัดซื้อจัดหาสินค้า/บริการขององค์กร (corporate buying process)
+- **Synonyms:** purchasing, acquisition, sourcing, supply
+- **Source:** "the company will implement a three-phase supply chain optimization initiative designed to streamline vendor selection" / "identified several inefficiencies in our current **procurement** process"
+- **My sentence:** _(เขียนเอง)_
+- **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex07]]
+
+### streamline *(verb)*
+- **ความหมาย:** ทำให้กระบวนการมีประสิทธิภาพมากขึ้น ลดขั้นตอนที่ซ้ำซ้อน
+- **Synonyms:** simplify, optimize, rationalize, make efficient
+- **Source:** "an initiative designed to **streamline** vendor selection, reduce lead times, and mitigate disruptions"
+- **My sentence:** _(เขียนเอง)_
+- **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex07]]
+
+### mitigate *(verb)*
+- **ความหมาย:** ลดความรุนแรง / บรรเทาผลกระทบหรือความเสี่ยง
+- **Synonyms:** reduce, lessen, alleviate, minimize, ease
+- **Source:** "designed to streamline vendor selection, reduce lead times, and **mitigate** disruptions caused by single-source dependencies"
+- **My sentence:** _(เขียนเอง)_
+- **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex07]]
+
+---
+
 <!-- Template สำหรับวันถัดไป
 
 ## YYYY-MM-DD

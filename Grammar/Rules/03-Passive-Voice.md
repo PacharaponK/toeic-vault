@@ -150,3 +150,4 @@ Stative passive = passive ที่แสดงสถานะ ไม่ใช�
 - [[Grammar/Exercises/Part5/03-Passive-Voice-Ex01]]
 - [[Grammar/Exercises/Part6/Part6-Ex03]]
 - [[Grammar/Exercises/Part6/Part6-Ex04]] — Part 6 (2026-05-09)
+- [[Grammar/Exercises/Part6/Part6-Ex05]] — Part 6 (2026-05-10)
