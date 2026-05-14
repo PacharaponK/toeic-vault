@@ -130,6 +130,31 @@ description: Sentence Mining with Production — บันทึกคำศั�
 
 ---
 
+## 2026-05-14
+
+### vacate *(verb)*
+- **ความหมาย:** อพยพออก / ทำให้สถานที่ว่างจากการใช้งาน (leave a place formally)
+- **Synonyms:** leave, evacuate, clear out, abandon
+- **Source:** "All departments are required to **vacate** the current premises no later than July 11."
+- **My sentence:** _(เขียนเอง)_
+- **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex10]]
+
+### designated *(adjective)*
+- **ความหมาย:** ที่ได้รับมอบหมาย / ที่กำหนดไว้อย่างเป็นทางการ (officially assigned for a purpose)
+- **Synonyms:** assigned, appointed, specified, allocated
+- **Source:** "Each team will be paired with a **designated** Facilities coordinator."
+- **My sentence:** _(เขียนเอง)_
+- **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex10]]
+
+### adjacent *(adjective)*
+- **ความหมาย:** ติดกัน / อยู่ถัดไปโดยตรง (next to or adjoining something)
+- **Synonyms:** neighboring, adjoining, next to, bordering
+- **Source:** "Our team will be situated on the third floor of Eastbridge Business Park, **adjacent** to the main reception area."
+- **My sentence:** _(เขียนเอง)_
+- **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex10]]
+
+---
+
 <!-- Template สำหรับวันถัดไป
 
 ## YYYY-MM-DD

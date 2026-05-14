@@ -65,13 +65,13 @@ last_reviewed: 2026-05-05
 
 ## Comparative Structures ใน Business English
 
-| Structure | ตัวอย่าง |
-|-----------|---------|
-| superior to | This product is **superior to** competitors'. |
-| inferior to | The old model is **inferior to** the new one. |
-| prefer A to B | We **prefer** digital communication **to** paper memos. |
-| rather than | Use email **rather than** phone for records. |
-| no less...than | This is **no less** important **than** profitability. |
+| Structure      | ตัวอย่าง                                                   |
+| -------------- | ---------------------------------------------------------- |
+| superior to    | This product is **superior to** competitors'.              |
+| inferior to    | The old model is **inferior to** the new one.              |
+| prefer A to B  | We **prefer** digital communication **to** paper memos.    |
+| rather than    | Use email **rather than** phone for records.               |
+| no less...than | This is **no less** important **than** profitability.      |
 | no more...than | The new process is **no more** expensive **than** the old. |
 
 ---
@@ -136,3 +136,5 @@ last_reviewed: 2026-05-05
 ---
 
 ## แบบฝึกหัดที่เชื่อมกับบทนี้
+
+- [[Grammar/Exercises/Part5/10-Comparatives-Ex01]]
