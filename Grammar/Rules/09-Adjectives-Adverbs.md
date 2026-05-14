@@ -29,13 +29,13 @@ appear, be, become, feel, get, grow, look, remain, seem, smell, sound, stay, tas
 
 ## Adverb Types
 
-| ประเภท | คำถาม | ตัวอย่าง |
-|--------|-------|---------|
-| **Frequency** | How often? | always, usually, often, sometimes, rarely, never |
-| **Manner** | How? | quickly, efficiently, carefully, well, hard |
-| **Degree** | How much? | very, quite, rather, fairly, extremely, slightly |
-| **Time** | When? | now, soon, already, recently, yesterday, annually |
-| **Place** | Where? | here, there, abroad, nearby, worldwide |
+| ประเภท        | คำถาม      | ตัวอย่าง                                          |
+| ------------- | ---------- | ------------------------------------------------- |
+| **Frequency** | How often? | always, usually, often, sometimes, rarely, never  |
+| **Manner**    | How?       | quickly, efficiently, carefully, well, hard       |
+| **Degree**    | How much?  | very, quite, rather, fairly, extremely, slightly  |
+| **Time**      | When?      | now, soon, already, recently, yesterday, annually |
+| **Place**     | Where?     | here, there, abroad, nearby, worldwide            |
 
 ### ตำแหน่ง Frequency Adverbs
 > Subject + **[frequency adverb]** + main verb
@@ -177,3 +177,5 @@ appear, be, become, feel, get, grow, look, remain, seem, smell, sound, stay, tas
 ---
 
 ## แบบฝึกหัดที่เชื่อมกับบทนี้
+
+- [[Grammar/Exercises/Part5/09-Adjectives-Adverbs-Ex01]]

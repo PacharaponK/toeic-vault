@@ -24,7 +24,97 @@
             }
           },
           {
-            "id": "082ca87800bcec30",
+            "id": "d34d7a853787afbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grammar/Exercises/Part6/Part6-Ex07.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Part6-Ex07"
+            }
+          },
+          {
+            "id": "e94ba2b1357da04e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/sentence-mining-log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sentence-mining-log"
+            }
+          },
+          {
+            "id": "1a2e9382e1940a01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grammar/Exercises/Part7/Part7-Ex09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Part7-Ex09"
+            }
+          },
+          {
+            "id": "583de6ae1323628c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grammar/Rules/09-Adjectives-Adverbs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09-Adjectives-Adverbs"
+            }
+          },
+          {
+            "id": "7690024a31bd63bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grammar/Exercises/Part5/09-Adjectives-Adverbs-Ex01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09-Adjectives-Adverbs-Ex01"
+            }
+          }
+        ]
+      },
+      {
+        "id": "707423415c65c24c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5612c6d068c7988f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-05-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-13"
+            }
+          },
+          {
+            "id": "3460f8c8762f34c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,26 +125,6 @@
               },
               "icon": "lucide-file",
               "title": "2026-05-12"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5e42521a86398520",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "153d738b76250269",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-05-09.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-09"
             }
           }
         ]
@@ -231,28 +301,35 @@
       "translate:Open translation view": false
     }
   },
-  "active": "153d738b76250269",
+  "active": "8eed57e10e600bb0",
   "lastOpenFiles": [
+    "Logs/2026-05-13-session.md",
+    "Logs/2026-05-13-session.md.tmp.2692.fbf33993dbb2",
+    "Daily/2026-05-13.md.tmp.2692.001bd12dc1ed",
+    "Vocabulary/sentence-mining-log.md",
+    "Daily/2026-05-13.md",
+    "Grammar/Exercises/Part6/Part6-Ex07.md",
+    "README.md",
+    "Daily/2026-05-13.md.tmp.2692.76d96bf94dba",
+    "Daily/2026-05-12.md",
+    "Grammar/Exercises/Part7/Part7-Ex09.md",
+    "Vocabulary/sentence-mining-log.md.tmp.2692.e04eedaee4a9",
+    "Grammar/Exercises/Part7/Part7-Ex09.md.tmp.2692.11818a05bda1",
+    "Grammar/Exercises/Part5/09-Adjectives-Adverbs-Ex01.md",
+    "Grammar/Rules/09-Adjectives-Adverbs.md",
+    "Grammar/Rules/09-Adjectives-Adverbs.md.tmp.2692.dae6fcea1fa6",
+    "Grammar/Exercises/Part5/09-Adjectives-Adverbs-Ex01.md.tmp.2692.13face109a0b",
+    "Grammar/Rules/08-Pronouns.md",
+    "Daily/2026-05-13.md.tmp.2692.573295e2480a",
+    "Grammar/Exercises/Part7/Part7-Ex08.md",
+    "Daily/2026-05-09.md",
     "Logs/2026-04-30-session.md",
     "Grammar/Rules/14-Word-Forms.md.tmp.4840.aee571bb0cee",
     "Grammar/Rules/07-Conjunctions.md.tmp.4840.25cf57a4da5a",
-    "Grammar/Exercises/Part5/04-Conditionals-Ex01.md.tmp.4840.91cde311d66c",
     "Logs/2026-05-12-session.md",
     "Untitled.canvas",
-    "Daily/2026-05-12.md",
-    "README.md",
-    "Daily/2026-05-12.md.tmp.4840.f0fe2c5dbc40",
-    "Daily/2026-05-12.md.tmp.4840.7506128129b4",
-    "Daily/2026-05-12.md.tmp.4840.694462f337d6",
-    "Daily/2026-05-12.md.tmp.4840.590402f3856c",
-    "Grammar/Exercises/Part7/Part7-Ex08.md",
-    "Vocabulary/sentence-mining-log.md",
     "Grammar/Exercises/Part6/Part6-Ex06.md",
-    "Grammar/Rules/08-Pronouns.md",
-    "Vocabulary/sentence-mining-log.md.tmp.4840.60785aa9b0d0",
-    "Grammar/Exercises/Part7/Part7-Ex08.md.tmp.4840.b1ea1ad82962",
     "Grammar/Exercises/Part5/08-Pronouns-Ex01.md",
-    "Grammar/Rules/08-Pronouns.md.tmp.4840.7f4b901d93e9",
     "Vocabulary/Business-Facilities.md",
     "Logs/2026-05-10-session.md",
     "Daily/2026-05-10.md",
@@ -262,13 +339,6 @@
     "Grammar/Exercises/Part6/Part6-Ex04.md",
     "Grammar/Rules/07-Conjunctions.md",
     "Grammar/Exercises/Part7/Part7-Ex06.md",
-    "Grammar/Exercises/Part5/06-Prepositions-Ex01.md",
-    "Grammar/Rules/06-Prepositions.md",
-    "Daily/2026-05-01.md",
-    "Grammar/Exercises/Part7/Part7-Ex05.md",
-    "Daily/2026-05-09.md",
-    "Logs/2026-05-09-session.md",
-    "Grammar/Rules/05-Articles.md",
-    "Daily/2026-05-08.md"
+    "Grammar/Exercises/Part5/06-Prepositions-Ex01.md"
   ]
 }
