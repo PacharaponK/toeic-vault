@@ -155,6 +155,31 @@ description: Sentence Mining with Production — บันทึกคำศั�
 
 ---
 
+## 2026-05-15
+
+### benchmark *(noun)*
+- **ความหมาย:** มาตรฐานเปรียบเทียบ / เกณฑ์วัดผลที่ตั้งไว้เพื่อวัดความก้าวหน้า
+- **Synonyms:** standard, reference point, yardstick, target
+- **Source:** "track progress against our carbon reduction **benchmark** of 35% below 2022 levels by the end of 2027."
+- **My sentence:** _(เขียนเอง)_
+- **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex11]]
+
+### comply *(verb)*
+- **ความหมาย:** ปฏิบัติตาม (กฎ ข้อกำหนด หรือคำสั่ง) — มักใช้กับ comply with
+- **Synonyms:** adhere to, follow, abide by, conform to, observe
+- **Source:** "Departments that fail to **comply** with the reporting requirement for three consecutive months will be referred to the Operations Committee."
+- **My sentence:** _(เขียนเอง)_
+- **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex11]]
+
+### consecutive *(adjective)*
+- **ความหมาย:** ต่อเนื่อง / ติดต่อกันไม่ขาดสาย (happening one after another without interruption)
+- **Synonyms:** successive, continuous, sequential, uninterrupted
+- **Source:** "Departments that fail to comply with the reporting requirement for three **consecutive** months will be referred to the Operations Committee."
+- **My sentence:** _(เขียนเอง)_
+- **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex11]]
+
+---
+
 <!-- Template สำหรับวันถัดไป
 
 ## YYYY-MM-DD
