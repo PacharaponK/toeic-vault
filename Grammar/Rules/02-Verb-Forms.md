@@ -180,3 +180,4 @@ last_reviewed: 2026-05-05
 
 ## แบบฝึกหัดที่เชื่อมกับบทนี้
 - [[Grammar/Exercises/Part5/02-Verb-Forms-Ex01]]
+- [[Grammar/Exercises/Part6/Part6-Ex12]]

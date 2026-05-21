@@ -205,6 +205,32 @@ description: Sentence Mining with Production — บันทึกคำศั�
 
 ---
 
+## 2026-05-21
+
+### stipulate *(verb)*
+- **ความหมาย:** กำหนดเป็นเงื่อนไขไว้ชัดเจน / ระบุไว้ในข้อตกลงหรือสัญญาอย่างเป็นทางการ
+- **Synonyms:** specify, require, set out, state as a condition
+- **Source:** "As **stipulated** in the registration agreement, full payment of $850 per participant is due no later than May 30."
+- **My sentence:** _(เขียนเอง)_
+- **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex13]]
+
+### reimburse *(verb)*
+- **ความหมาย:** คืนเงิน / จ่ายเงินคืนให้แก่ผู้ที่จ่ายค่าใช้จ่ายออกไปก่อน
+- **Synonyms:** compensate, repay, pay back, refund
+- **Source:** "Employees who attend will be **reimbursed** for travel expenses up to $30."
+- **My sentence:** _(เขียนเอง)_
+- **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex13]]
+
+### mandatory *(adjective)*
+- **ความหมาย:** บังคับ / จำเป็นต้องปฏิบัติตาม — ไม่มีทางเลือก ต่างจาก optional หรือ voluntary
+- **Synonyms:** compulsory, required, obligatory, necessary
+- **Antonym:** optional, voluntary, elective
+- **Source:** "Attendance for the selected employees is **mandatory**, and any absences must be approved by the HR Department in advance."
+- **My sentence:** _(เขียนเอง)_
+- **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex13]]
+
+---
+
 <!-- Template สำหรับวันถัดไป
 
 ## YYYY-MM-DD

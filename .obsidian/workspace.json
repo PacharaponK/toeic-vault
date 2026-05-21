@@ -24,65 +24,31 @@
             }
           },
           {
-            "id": "bccd3bcea506b415",
+            "id": "2cb4501e071e50ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grammar/Exercises/Part5/12-Noun-Clauses-Ex01.md",
+                "file": "Grammar/Rules/13-Subject-Verb-Agreement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12-Noun-Clauses-Ex01"
+              "title": "13-Subject-Verb-Agreement"
             }
           },
           {
-            "id": "5c5db64465900ce7",
+            "id": "ebd665fa22ab88c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grammar/Exercises/Part7/Part7-Ex12.md",
+                "file": "Daily/2026-05-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Part7-Ex12"
-            }
-          },
-          {
-            "id": "dafa71f93ac06f2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-05-16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-16"
-            }
-          }
-        ]
-      },
-      {
-        "id": "533cde162f9a3161",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "986f844df09ea625",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulary/sentence-mining-log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sentence-mining-log"
+              "title": "2026-05-21"
             }
           }
         ]
@@ -259,26 +225,33 @@
       "translate:Open translation view": false
     }
   },
-  "active": "8eed57e10e600bb0",
+  "active": "08acdc8bc149f713",
   "lastOpenFiles": [
-    "Logs/2026-05-16-session.md",
-    "Logs/2026-05-16-session.md.tmp.22016.85bb3318ca3f",
-    "Daily/2026-05-16.md",
-    "Daily/2026-05-16.md.tmp.22016.1d52496e2f93",
-    "Daily/2026-05-16.md.tmp.22016.942364959a2f",
-    "Daily/2026-05-16.md.tmp.22016.b609def2df0a",
-    "Daily/2026-05-16.md.tmp.22016.4b970f54be9f",
-    "Daily/2026-05-16.md.tmp.22016.5a7129b88064",
-    "Daily/2026-05-16.md.tmp.22016.d08ffd9fb4fe",
-    "Grammar/Exercises/Part5/12-Noun-Clauses-Ex01.md",
-    "README.md",
+    "Logs/2026-05-21-session.md",
+    "Logs/2026-05-21-session.md.tmp.28408.68bb1cbd3315",
+    "Daily/2026-05-21.md.tmp.28408.a3e666c6ac87",
+    "Daily/2026-05-21.md",
     "Vocabulary/sentence-mining-log.md",
+    "Grammar/Exercises/Part7/Part7-Ex13.md",
+    "Grammar/Exercises/Part6/Part6-Ex12.md",
+    "Grammar/Exercises/Part5/13-Subject-Verb-Agreement-Ex01.md",
+    "Vocabulary/sentence-mining-log.md.tmp.28408.6b2688f8f361",
+    "Grammar/Exercises/Part7/Part7-Ex13.md.tmp.28408.c925f4f8aaa9",
+    "README.md",
+    "Grammar/Rules/13-Subject-Verb-Agreement.md",
+    "Grammar/Rules/03-Passive-Voice.md.tmp.28408.345dc8aeb271",
+    "Grammar/Rules/02-Verb-Forms.md.tmp.28408.37098536ef1b",
+    "Grammar/Rules/01-Tenses.md.tmp.28408.f0e3003ad746",
+    "Grammar/Exercises/Part6/Part6-Ex12.md.tmp.28408.95b5551aab91",
+    "Grammar/Rules/13-Subject-Verb-Agreement.md.tmp.28408.fd45b96ca897",
+    "Grammar/Exercises/Part5/13-Subject-Verb-Agreement-Ex01.md.tmp.28408.b82bb7dc543f",
+    "Grammar/Rules/12-Noun-Clauses.md",
+    "Dashboard.md",
+    "Logs/2026-05-16-session.md",
+    "Daily/2026-05-16.md",
+    "Grammar/Exercises/Part5/12-Noun-Clauses-Ex01.md",
     "Grammar/Exercises/Part7/Part7-Ex12.md",
     "Grammar/Exercises/Part6/Part6-Ex11.md",
-    "Vocabulary/sentence-mining-log.md.tmp.22016.104e6ba2e213",
-    "Grammar/Exercises/Part7/Part7-Ex12.md.tmp.22016.f8b0be3c600d",
-    "Grammar/Rules/12-Noun-Clauses.md",
-    "Grammar/Exercises/Part6/Part6-Ex11.md.tmp.22016.8dd587ad835c",
     "Grammar/Rules/11-Relative-Clauses.md",
     "Daily/2026-05-15.md",
     "Logs/2026-05-15-session.md",
@@ -290,13 +263,6 @@
     "Daily/2026-05-14.md",
     "Logs/2026-05-14-session.md",
     "Grammar/Exercises/Part5/10-Comparatives-Ex01.md",
-    "Grammar/Exercises/Part7/Part7-Ex10.md",
-    "Grammar/Exercises/Part6/Part6-Ex08.md",
-    "Grammar/Rules/10-Comparatives.md",
-    "Grammar/Rules/09-Adjectives-Adverbs.md",
-    "Grammar/Rules/13-Subject-Verb-Agreement.md",
-    "Grammar/Exercises/Part5/09-Adjectives-Adverbs-Ex01.md",
-    "Grammar/Exercises/Part6/Part6-Ex01.md",
     "Untitled.canvas"
   ]
 }

@@ -152,3 +152,4 @@ last_reviewed: 2026-05-05
 
 - [[Grammar/Exercises/Part5/01-Tenses-Ex01]]
 - [[Grammar/Exercises/Part6/Part6-Ex02]]
+- [[Grammar/Exercises/Part6/Part6-Ex12]]
