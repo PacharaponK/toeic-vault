@@ -11,7 +11,9 @@
       "WebFetch(domain:github.com)",
       "PowerShell(New-Item *)",
       "Bash(Get-ChildItem -Path \"D:\\\\eng-vault\" -Recurse -Directory)",
-      "Bash(Select-Object FullName)"
+      "Bash(Select-Object FullName)",
+      "Bash(Get-Content \"D:\\\\eng-vault\\\\Vocabulary\\\\sentence-mining-log.md\")",
+      "Bash(Select-Object -Last 40)"
     ]
   }
 }

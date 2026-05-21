@@ -152,3 +152,4 @@ last_reviewed: 2026-05-05
 ---
 
 ## แบบฝึกหัดที่เชื่อมกับบทนี้
+- [[Grammar/Exercises/Part5/12-Noun-Clauses-Ex01]]

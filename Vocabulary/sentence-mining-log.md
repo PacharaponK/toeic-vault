@@ -161,22 +161,47 @@ description: Sentence Mining with Production — บันทึกคำศั�
 - **ความหมาย:** มาตรฐานเปรียบเทียบ / เกณฑ์วัดผลที่ตั้งไว้เพื่อวัดความก้าวหน้า
 - **Synonyms:** standard, reference point, yardstick, target
 - **Source:** "track progress against our carbon reduction **benchmark** of 35% below 2022 levels by the end of 2027."
-- **My sentence:** _(เขียนเอง)_
+- **My sentence:** The RTX 4080 benchmark score is significantly high.
 - **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex11]]
 
 ### comply *(verb)*
 - **ความหมาย:** ปฏิบัติตาม (กฎ ข้อกำหนด หรือคำสั่ง) — มักใช้กับ comply with
 - **Synonyms:** adhere to, follow, abide by, conform to, observe
 - **Source:** "Departments that fail to **comply** with the reporting requirement for three consecutive months will be referred to the Operations Committee."
-- **My sentence:** _(เขียนเอง)_
+- **My sentence:** We should comply with company rules.
 - **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex11]]
 
 ### consecutive *(adjective)*
 - **ความหมาย:** ต่อเนื่อง / ติดต่อกันไม่ขาดสาย (happening one after another without interruption)
 - **Synonyms:** successive, continuous, sequential, uninterrupted
 - **Source:** "Departments that fail to comply with the reporting requirement for three **consecutive** months will be referred to the Operations Committee."
-- **My sentence:** _(เขียนเอง)_
+- **My sentence:** Consecutive working days will be counted toward a salary increase.
 - **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex11]]
+
+---
+
+## 2026-05-16
+
+### pending *(preposition)*
+- **ความหมาย:** รอผลของ / ขึ้นอยู่กับ — ใช้ก่อน noun/clause เพื่อแสดงเงื่อนไขที่ต้องเสร็จก่อน
+- **Synonyms:** subject to, awaiting, conditional on, contingent on
+- **Source:** "The estimated delivery date is Friday, May 30, **pending** final quality inspection."
+- **My sentence:** _(เขียนเอง)_
+- **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex12]]
+
+### ergonomic *(adjective)*
+- **ความหมาย:** ออกแบบตามหลักสรีรศาสตร์ — เหมาะกับสรีระมนุษย์เพื่อลดความเมื่อยล้าและเพิ่มประสิทธิภาพ
+- **Synonyms:** body-friendly, comfort-designed, well-designed for use
+- **Source:** "Order #OF-2847 — comprising 24 **ergonomic** chairs and 8 adjustable standing desks"
+- **My sentence:** _(เขียนเอง)_
+- **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex12]]
+
+### comprise *(verb)*
+- **ความหมาย:** ประกอบด้วย / รวมเป็นทั้งหมด — ใช้ใน active voice เสมอ (ห้ามใช้ "is comprised of")
+- **Synonyms:** consist of, include, be made up of, encompass
+- **Source:** "The shipment **comprises** 24 ergonomic chairs and 8 adjustable standing desks."
+- **My sentence:** _(เขียนเอง)_
+- **แหล่งที่มา:** [[Grammar/Exercises/Part7/Part7-Ex12]]
 
 ---
 
